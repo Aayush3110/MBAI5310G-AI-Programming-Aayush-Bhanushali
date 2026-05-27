@@ -1,6 +1,6 @@
 # Assignment 2 - End-to-End ML Pipeline
 
-**Course:** MBAI 5310G-001: AI Programming - Ontario Tech University
+**Course:** MBAI 5310G: AI Programming - Ontario Tech University
 
 ## Overview
 
@@ -12,7 +12,7 @@ End-to-end machine learning pipeline that predicts e-commerce customer churn fro
 
 ## Dataset
 
-`ecommerce_customer_churn_dataset.csv` — 325 customer records, 14 columns.
+`ecommerce_customer_churn_dataset.csv` - 325 customer records, 14 columns.
 
 | Column | Type | Description |
 |---|---|---|
