@@ -1,0 +1,326 @@
+Customer_ID,Age,Gender,Region,Membership_Type,Monthly_Spending,Number_of_Orders,Days_Since_Last_Purchase,Customer_Support_Calls,Average_Rating,Used_Coupon,Newsletter_Subscribed,Device_Type,Churned
+1,37,Female,Manitoba,Platinum,332,1,218,7,1,No,No,Mobile,Yes
+2,41,Female,Manitoba,Silver,632,11,199,3,3,No,Yes,Desktop,No
+3,30,Male,British Columbia,Platinum,972,16,258,2,4,No,No,Tablet,No
+4,58,Female,Manitoba,Basic,752,10,197,8,5,No,No,Mobile,Yes
+5,59,Male,Quebec,Silver,619,12,81,3,4,No,Yes,Mobile,No
+6,25,Female,Ontario,Silver,922,4,122,0,5,No,No,Mobile,No
+7,56,Male,British Columbia,Basic,1119,7,253,5,2,No,No,Desktop,Yes
+8,40,Male,Ontario,Basic,456,12,238,7,3,Yes,No,Mobile,Yes
+9,19,Male,Quebec,Basic,1058,22,258,3,4,No,Yes,Mobile,No
+10,25,Male,Quebec,Basic,1107,5,242,5,5,Yes,Yes,Mobile,No
+11,66,Female,British Columbia,Gold,741,3,349,5,4,Yes,No,Desktop,No
+12,46,Female,Quebec,Silver,489,10,240,1,1,Yes,No,Mobile,No
+13,,Male,British Columbia,Platinum,633,4,147,6,1,Yes,Yes,Mobile,No
+14,37,Female,Ontario,Silver,712,22,116,8,3,Yes,No,Mobile,No
+15,27,Female,Alberta,Gold,405,11,4,8,4,Yes,Yes,Mobile,No
+16,48,Male,British Columbia,Basic,1083,8,202,8,5,No,Yes,Mobile,No
+17,54,Male,Quebec,Basic,76,7,152,9,5,No,Yes,Mobile,Yes
+18,41,Female,British Columbia,Silver,971,21,165,8,2,Yes,No,Desktop,Yes
+19,38,Male,Alberta,Silver,1157,0,216,1,1,Yes,No,Desktop,No
+20,58,Female,Alberta,Silver,655,21,55,8,2,No,Yes,Tablet,No
+21,44,Female,British Columbia,Gold,,21,270,5,2,No,Yes,Mobile,Yes
+22,27,Male,Alberta,Silver,272,19,59,6,5,Yes,Yes,Mobile,No
+23,33,Female,Alberta,Gold,851,0,342,8,2,Yes,Yes,Mobile,Yes
+24,61,Female,Alberta,Silver,618,22,203,1,4,No,No,Mobile,No
+25,21,Female,British Columbia,Basic,810,10,273,4,2,Yes,No,Desktop,Yes
+26,35,Male,British Columbia,Basic,539,14,119,8,1,Yes,Yes,Mobile,No
+27,66,Male,Ontario,Silver,324,21,121,7,2,No,Yes,Desktop,Yes
+28,21,Male,Alberta,Basic,44,13,343,6,1,Yes,Yes,Mobile,Yes
+29,67,Male,Manitoba,Silver,828,19,345,0,5,No,Yes,Desktop,No
+30,26,Female,Alberta,Silver,1124,19,72,6,4,Yes,Yes,Desktop,No
+31,28,Male,Ontario,Basic,984,3,216,7,4,No,Yes,Mobile,Yes
+32,66,Female,British Columbia,Basic,455,20,271,6,2,No,Yes,Desktop,Yes
+33,27,Male,Manitoba,Silver,1159,13,84,2,2,No,No,Mobile,No
+34,21,Female,Quebec,Gold,267,5,236,6,3,Yes,No,Mobile,Yes
+35,28,Male,British Columbia,Gold,369,19,288,0,4,No,Yes,Desktop,No
+36,26,Female,British Columbia,Basic,637,8,119,2,2,Yes,No,Mobile,No
+37,38,Male,Ontario,Basic,198,13,4,9,2,No,No,Mobile,Yes
+38,27,Male,Alberta,Gold,622,5,193,5,5,Yes,No,Desktop,Yes
+39,52,Male,Ontario,Basic,1162,5,46,5,3,Yes,No,Mobile,Yes
+40,24,Male,Alberta,Basic,754,24,338,4,3,Yes,Yes,Mobile,No
+41,23,Male,British Columbia,Silver,676,20,279,1,3,Yes,No,Mobile,No
+42,66,Male,Alberta,Silver,963,6,86,4,5,No,No,Tablet,No
+43,42,Female,Manitoba,Silver,211,5,180,0,3,No,Yes,Mobile,No
+44,27,Female,Manitoba,Basic,678,13,111,5,5,Yes,Yes,Mobile,No
+45,40,Male,Alberta,Basic,1113,0,193,7,1,Yes,Yes,Mobile,Yes
+46,55,Female,British Columbia,Silver,600,2,41,9,1,Yes,No,Mobile,Yes
+47,40,Male,Manitoba,Silver,164,18,202,1,2,No,Yes,Mobile,No
+48,57,Female,British Columbia,Gold,109,13,73,0,1,No,No,Mobile,No
+49,58,Female,Quebec,Silver,213,7,68,2,1,Yes,Yes,Desktop,No
+50,21,Male,Ontario,Silver,553,13,235,1,2,No,No,Mobile,No
+51,36,Male,British Columbia,Gold,1028,14,32,4,5,Yes,Yes,Mobile,No
+52,41,Male,Manitoba,Gold,1188,20,176,9,5,No,Yes,Tablet,No
+53,39,Female,British Columbia,Basic,936,16,343,1,5,No,Yes,Mobile,No
+54,60,Male,British Columbia,Gold,469,8,80,1,3,Yes,No,Mobile,No
+55,64,Male,Quebec,Silver,485,4,293,7,1,No,No,Tablet,Yes
+56,34,Female,Ontario,Silver,326,5,136,8,1,No,Yes,Mobile,No
+57,36,Male,Ontario,Gold,872,14,153,3,2,No,No,Mobile,No
+58,40,Male,Manitoba,Gold,419,10,220,4,5,Yes,No,Mobile,No
+59,57,Female,Ontario,Platinum,119,1,73,1,5,No,No,Mobile,No
+60,30,Female,Quebec,Silver,84,22,75,7,3,Yes,No,Mobile,No
+61,41,Female,Manitoba,Silver,318,19,3,9,1,No,Yes,Mobile,No
+62,63,Female,Alberta,Platinum,565,16,162,6,2,Yes,Yes,Desktop,No
+63,63,Female,Ontario,Silver,973,0,113,3,5,Yes,Yes,Mobile,No
+64,44,Female,Alberta,Gold,105,10,187,6,1,Yes,Yes,Mobile,Yes
+65,67,Male,Ontario,Basic,61,9,277,4,2,No,No,Tablet,Yes
+66,69,Male,Ontario,Silver,1166,17,169,2,1,Yes,Yes,Desktop,No
+67,65,Male,Manitoba,,225,13,52,3,2,Yes,Yes,Desktop,No
+68,25,Male,Alberta,Gold,976,23,20,6,3,Yes,Yes,Mobile,No
+69,67,Male,British Columbia,Gold,761,3,314,8,5,No,Yes,Mobile,No
+70,47,Female,British Columbia,Silver,142,8,219,4,2,No,Yes,Desktop,No
+71,63,Female,Ontario,Basic,1168,6,324,1,1,Yes,Yes,Mobile,No
+72,44,Female,Ontario,Basic,148,16,16,3,1,Yes,Yes,Mobile,No
+73,46,Male,Ontario,Silver,777,24,348,2,4,No,Yes,Mobile,No
+74,57,Male,Manitoba,Gold,642,8,220,9,2,Yes,Yes,Mobile,No
+75,62,Female,Ontario,Silver,599,9,289,1,2,Yes,Yes,Desktop,No
+76,22,Male,Manitoba,Basic,1099,16,61,3,4,Yes,Yes,Mobile,No
+77,63,Female,Ontario,Basic,297,3,360,0,3,Yes,No,Desktop,Yes
+78,25,Male,Alberta,Gold,511,14,94,9,3,Yes,Yes,Mobile,No
+79,21,Male,Manitoba,Basic,928,18,12,2,4,Yes,Yes,Tablet,No
+80,49,Male,Quebec,Gold,500,13,59,7,2,No,Yes,Tablet,No
+81,46,Female,British Columbia,Basic,78,12,191,4,5,Yes,Yes,Mobile,Yes
+82,24,Female,Ontario,Basic,342,11,319,7,1,Yes,Yes,Desktop,Yes
+83,42,Female,Manitoba,Gold,848,23,197,8,1,Yes,Yes,Desktop,No
+84,44,Male,British Columbia,Silver,650,5,99,2,5,Yes,Yes,Tablet,No
+85,56,Male,Quebec,Silver,605,17,94,2,3,No,No,Mobile,No
+86,65,Male,Quebec,Silver,979,15,46,9,3,No,No,Mobile,No
+87,47,Female,British Columbia,Basic,294,15,92,4,5,Yes,Yes,Desktop,No
+88,43,Male,Manitoba,Basic,950,6,182,3,5,No,No,Mobile,No
+89,52,Male,British Columbia,Silver,225,9,82,2,3,Yes,Yes,Desktop,No
+90,69,Male,Ontario,Basic,823,9,48,1,3,Yes,Yes,Mobile,No
+91,49,Male,Alberta,Basic,299,19,353,0,1,No,No,Mobile,Yes
+92,50,Male,Alberta,Basic,1136,2,90,0,4,No,Yes,Desktop,No
+93,52,Male,Manitoba,Basic,348,18,95,9,1,No,Yes,Mobile,No
+94,41,Male,British Columbia,Basic,537,9,304,0,1,Yes,Yes,Desktop,Yes
+95,29,Female,Ontario,Gold,174,4,178,0,2,No,No,Desktop,No
+96,33,Male,Manitoba,Basic,1081,23,297,1,3,No,No,Desktop,No
+97,38,Female,Alberta,Silver,781,12,264,4,3,Yes,Yes,Desktop,No
+98,69,Male,Ontario,Basic,991,11,157,9,2,No,Yes,Mobile,Yes
+99,24,Female,Alberta,Basic,712,21,16,9,5,Yes,No,Desktop,No
+100,45,Male,Manitoba,Basic,731,16,209,4,4,No,Yes,Mobile,No
+101,60,Male,British Columbia,Platinum,541,11,123,3,5,No,Yes,Desktop,No
+102,34,Female,British Columbia,Basic,1111,0,319,6,1,Yes,Yes,Mobile,Yes
+103,41,Male,Alberta,Silver,309,13,255,5,4,Yes,Yes,Mobile,No
+104,20,Female,Ontario,Basic,1047,22,67,4,1,Yes,No,Mobile,Yes
+105,41,Female,Ontario,Basic,303,4,10,8,4,Yes,Yes,Mobile,No
+106,35,,Ontario,Gold,191,23,106,8,2,No,Yes,Mobile,No
+107,33,Male,British Columbia,Gold,400,14,81,6,1,Yes,Yes,Mobile,No
+108,34,Male,Manitoba,Silver,27,13,199,5,5,Yes,No,Mobile,Yes
+109,24,Female,British Columbia,Basic,434,4,325,4,3,No,No,Desktop,Yes
+110,54,Male,Ontario,Silver,849,8,50,4,4,No,Yes,Mobile,No
+111,44,Male,Quebec,Basic,394,7,75,2,4,Yes,No,Desktop,No
+112,47,Female,Quebec,Gold,1175,24,135,1,5,No,No,Mobile,No
+113,19,Male,,Basic,117,18,41,7,2,No,Yes,Mobile,No
+114,68,Female,Alberta,Basic,481,10,172,4,1,No,No,Mobile,Yes
+115,25,Female,Alberta,Silver,774,23,19,0,2,No,No,Tablet,No
+116,66,Male,Manitoba,Platinum,596,15,352,8,3,No,Yes,Mobile,No
+117,37,Male,Manitoba,Silver,244,20,277,6,4,Yes,No,Mobile,No
+118,26,Female,Ontario,Basic,1148,15,142,3,3,No,No,Desktop,Yes
+119,19,Male,Manitoba,Silver,1185,10,67,8,2,Yes,No,Mobile,Yes
+120,20,Male,Quebec,Silver,58,5,1,4,5,No,Yes,Mobile,No
+121,61,Male,Manitoba,Basic,399,18,344,5,1,Yes,Yes,Desktop,No
+122,59,Female,Quebec,Basic,651,15,265,7,3,Yes,Yes,Tablet,No
+123,39,Male,Manitoba,Basic,526,21,272,8,2,Yes,Yes,Mobile,No
+124,51,Male,Alberta,,457,22,255,9,5,No,No,Desktop,No
+125,42,Female,Ontario,Gold,331,10,281,0,5,No,No,Mobile,No
+126,64,Male,British Columbia,Silver,792,18,78,0,4,Yes,No,Mobile,No
+127,64,Male,Alberta,Silver,81,16,15,2,1,Yes,Yes,Tablet,No
+128,64,Female,Manitoba,Gold,70,6,212,6,2,Yes,Yes,Desktop,Yes
+129,44,Female,British Columbia,Silver,1119,10,111,8,2,No,Yes,Mobile,No
+130,21,Male,Ontario,Basic,,1,306,4,4,Yes,Yes,Mobile,Yes
+131,34,Male,Manitoba,Silver,469,5,57,5,5,No,No,Tablet,No
+132,69,Female,British Columbia,Silver,151,1,33,4,1,Yes,No,Desktop,Yes
+133,18,Female,Ontario,Silver,77,0,45,6,3,No,Yes,Mobile,No
+134,49,Male,Alberta,Gold,271,11,66,7,3,No,No,Mobile,No
+135,69,Male,British Columbia,Gold,668,13,192,1,3,Yes,No,Desktop,No
+136,26,Female,British Columbia,Basic,828,5,326,1,4,No,No,Desktop,No
+137,50,Female,Manitoba,Basic,626,15,184,2,2,No,Yes,Mobile,No
+138,27,Female,Manitoba,Basic,416,23,117,6,1,No,Yes,Mobile,Yes
+139,28,Male,Alberta,Basic,333,18,340,7,2,Yes,No,Desktop,Yes
+140,34,Female,Quebec,Gold,531,14,143,2,4,Yes,No,Mobile,No
+141,21,Female,Manitoba,Gold,41,7,309,6,4,No,Yes,Mobile,No
+142,47,Male,Quebec,Basic,31,15,4,0,2,No,Yes,Mobile,Yes
+143,23,Female,Quebec,Basic,457,1,255,6,3,Yes,Yes,Desktop,Yes
+144,27,Female,Alberta,Gold,542,20,42,3,3,Yes,Yes,Desktop,No
+145,27,Female,Manitoba,Basic,337,1,345,8,5,No,No,Mobile,Yes
+146,44,Male,Alberta,Basic,391,0,76,9,2,No,Yes,Tablet,Yes
+147,39,Male,Ontario,Platinum,1007,24,12,4,2,Yes,No,Mobile,No
+148,39,Female,Manitoba,Silver,307,22,259,1,5,Yes,Yes,Desktop,No
+149,42,Male,British Columbia,Platinum,572,12,50,8,1,No,Yes,Mobile,No
+150,28,Male,Alberta,Basic,1128,10,10,3,3,Yes,No,Mobile,No
+151,21,Male,Ontario,Platinum,1016,16,181,0,,Yes,Yes,Mobile,No
+152,45,Female,Ontario,,698,15,214,6,1,No,No,Tablet,Yes
+153,43,Male,Ontario,Platinum,230,22,298,6,3,Yes,Yes,Tablet,No
+154,53,Female,British Columbia,Basic,766,9,244,9,2,Yes,Yes,Tablet,Yes
+155,62,Male,British Columbia,Basic,89,0,180,0,5,No,No,Desktop,Yes
+156,49,Female,Alberta,Silver,430,1,13,4,4,Yes,No,Mobile,Yes
+157,53,Female,Ontario,Basic,403,20,356,2,1,Yes,Yes,Desktop,No
+158,42,Female,Manitoba,Silver,77,5,310,6,1,Yes,Yes,Desktop,No
+159,35,Male,Quebec,Gold,1028,1,238,3,2,No,No,Desktop,Yes
+160,44,Male,Manitoba,Gold,622,20,337,0,5,Yes,No,Desktop,No
+161,56,Male,Alberta,Basic,859,6,363,6,3,No,No,Mobile,Yes
+162,23,Male,Manitoba,Silver,886,10,216,1,1,No,No,Mobile,Yes
+163,53,Female,Manitoba,Platinum,742,4,165,8,3,No,No,Mobile,No
+164,53,Male,Ontario,Basic,395,16,47,4,5,No,Yes,Mobile,No
+165,30,Male,Alberta,Basic,514,3,362,3,5,Yes,Yes,Desktop,No
+166,52,Male,Manitoba,Gold,770,17,43,8,4,Yes,Yes,Mobile,No
+167,67,Male,Quebec,Basic,710,15,113,3,4,No,Yes,Desktop,No
+168,19,Male,Quebec,Basic,803,21,198,1,5,Yes,Yes,Mobile,No
+169,36,Male,Ontario,Silver,885,23,317,3,4,No,Yes,Desktop,No
+170,35,Male,Alberta,Silver,592,15,30,4,2,Yes,No,Mobile,No
+171,35,Female,Manitoba,Basic,56,12,240,0,5,No,Yes,Mobile,No
+172,59,Female,Manitoba,Silver,234,10,290,5,4,Yes,Yes,Desktop,No
+173,69,Female,Alberta,Silver,841,3,297,1,1,No,No,Mobile,No
+174,32,Female,Manitoba,Basic,732,6,298,1,4,Yes,Yes,Desktop,No
+175,65,Male,Quebec,Basic,226,8,139,9,4,Yes,No,Mobile,Yes
+176,33,Male,Alberta,Basic,449,9,257,9,5,No,No,Tablet,Yes
+177,43,Male,Ontario,Basic,1015,19,294,5,5,Yes,Yes,Desktop,No
+178,51,Female,British Columbia,Silver,889,11,36,9,2,No,No,Desktop,No
+179,46,Male,Alberta,Platinum,1021,15,161,7,3,Yes,Yes,Mobile,No
+180,51,,Ontario,Silver,712,22,303,4,3,No,Yes,Mobile,No
+181,34,Male,Manitoba,Basic,967,2,153,0,3,Yes,Yes,Mobile,No
+182,52,Male,British Columbia,Basic,74,3,226,7,1,No,Yes,Mobile,Yes
+183,59,Female,Alberta,Basic,503,21,283,7,1,Yes,Yes,Desktop,Yes
+184,43,Male,Ontario,Silver,44,17,254,9,3,Yes,No,Mobile,Yes
+185,53,Male,Manitoba,Platinum,189,2,6,1,2,No,Yes,Mobile,No
+186,54,Male,Ontario,Silver,578,21,126,6,3,No,No,Mobile,No
+187,34,Female,Manitoba,Basic,593,4,107,3,4,Yes,No,Mobile,No
+188,21,Female,British Columbia,Gold,858,11,9,4,5,No,No,Mobile,No
+189,52,Female,British Columbia,Basic,780,5,201,9,1,No,No,Desktop,Yes
+190,30,Female,Alberta,Basic,574,7,212,1,5,No,Yes,Mobile,No
+191,38,Male,Quebec,Basic,463,14,21,8,4,No,No,Mobile,Yes
+192,,Female,,Silver,960,14,11,9,1,No,Yes,Desktop,No
+193,31,Female,Manitoba,Basic,109,24,234,0,2,No,Yes,Mobile,Yes
+194,63,Male,British Columbia,Basic,958,23,137,6,4,Yes,No,Mobile,Yes
+195,56,Female,Alberta,Gold,158,4,245,2,1,No,Yes,Mobile,No
+196,37,Female,Quebec,Silver,954,0,70,3,4,No,Yes,Desktop,No
+197,25,Female,Quebec,Gold,1091,5,105,9,,No,Yes,Tablet,No
+198,,Male,Ontario,Silver,935,3,131,5,4,No,Yes,Mobile,No
+199,43,Male,Ontario,Platinum,213,18,328,3,3,No,Yes,Mobile,No
+200,48,Male,British Columbia,Silver,383,13,205,2,5,No,No,Mobile,No
+201,,Male,Manitoba,Basic,468,2,340,8,1,Yes,Yes,Desktop,Yes
+202,29,Male,Ontario,Basic,625,14,319,4,3,No,Yes,Desktop,Yes
+203,61,Female,Ontario,Gold,848,7,239,0,4,No,No,Mobile,No
+204,42,Male,British Columbia,Platinum,109,14,363,8,2,No,Yes,Desktop,No
+205,22,Male,Alberta,Silver,784,14,332,1,3,No,No,Tablet,No
+206,28,Female,Alberta,Basic,382,15,46,8,3,No,No,Desktop,Yes
+207,61,Male,Quebec,Gold,1115,7,354,8,1,No,No,Mobile,Yes
+208,47,Male,Ontario,Basic,1155,18,282,0,5,No,Yes,Desktop,No
+209,65,Male,Alberta,Platinum,676,17,30,8,4,Yes,Yes,Desktop,No
+210,64,Female,Quebec,Silver,362,20,159,0,4,Yes,Yes,Mobile,No
+211,56,Male,Quebec,Silver,474,12,261,8,3,Yes,Yes,Desktop,No
+212,40,Male,Quebec,Basic,1066,19,146,2,2,No,No,Tablet,No
+213,52,Female,Ontario,Basic,1120,8,235,7,3,No,Yes,Mobile,No
+214,65,Female,Alberta,Platinum,907,0,29,0,3,No,Yes,Mobile,No
+215,41,,Alberta,Basic,463,3,339,4,1,No,No,Mobile,Yes
+216,54,Female,Alberta,Gold,156,24,81,5,2,No,Yes,Mobile,No
+217,67,Female,Alberta,Gold,1179,9,56,3,1,Yes,No,Desktop,No
+218,38,Female,Alberta,Silver,943,18,289,4,1,Yes,Yes,Desktop,No
+219,50,Female,Manitoba,Silver,717,11,213,0,3,Yes,Yes,Mobile,No
+220,19,Male,Ontario,Gold,984,19,183,1,2,Yes,Yes,Mobile,No
+221,36,Female,Ontario,Platinum,744,23,305,5,2,No,Yes,Mobile,No
+222,45,Female,British Columbia,Silver,755,5,116,1,4,No,No,Mobile,No
+223,37,Male,British Columbia,Silver,1145,24,309,6,3,No,No,Mobile,No
+224,38,Female,Quebec,Silver,724,1,88,5,5,No,No,Desktop,No
+225,63,Female,Manitoba,Silver,1171,23,129,8,3,No,Yes,Mobile,No
+226,43,Female,Ontario,Silver,941,18,292,2,4,Yes,Yes,Desktop,No
+227,19,Female,Quebec,Basic,142,13,192,4,5,No,Yes,Mobile,No
+228,55,Male,Quebec,Silver,1069,14,88,2,1,No,Yes,Mobile,No
+229,20,Female,Quebec,Basic,271,1,192,5,2,Yes,Yes,Desktop,Yes
+230,57,Male,Quebec,Basic,589,14,334,1,5,Yes,No,Desktop,No
+231,68,Female,Ontario,Silver,830,16,27,8,5,Yes,Yes,Mobile,No
+232,31,Female,Alberta,Basic,1109,5,270,3,1,Yes,Yes,Mobile,No
+233,60,Female,Alberta,,1187,14,93,4,5,Yes,Yes,Mobile,No
+234,21,Female,British Columbia,Silver,209,9,74,7,3,No,No,Desktop,No
+235,22,Male,Alberta,Gold,204,23,279,3,3,No,Yes,Mobile,No
+236,38,Female,Quebec,Basic,779,6,326,0,4,No,Yes,Mobile,No
+237,53,,Manitoba,Gold,827,23,208,9,2,Yes,Yes,Mobile,No
+238,46,Female,Quebec,Gold,299,16,334,6,5,No,Yes,Mobile,No
+239,52,Male,Alberta,Silver,538,1,43,0,1,No,Yes,Desktop,No
+240,49,Male,Quebec,Basic,393,2,39,6,5,No,No,Mobile,Yes
+241,30,Male,British Columbia,Basic,1094,1,150,9,1,Yes,Yes,Mobile,Yes
+242,27,Male,Manitoba,Basic,65,18,190,0,3,No,No,Mobile,Yes
+243,66,Female,Quebec,Silver,877,20,359,8,,No,Yes,Mobile,No
+244,68,Female,British Columbia,Silver,1167,6,302,8,1,Yes,No,Desktop,Yes
+245,36,Female,British Columbia,Silver,918,1,91,2,3,No,No,Desktop,No
+246,63,Female,British Columbia,Silver,815,20,142,4,1,Yes,Yes,Mobile,Yes
+247,28,Male,British Columbia,Silver,547,23,257,0,1,Yes,Yes,Mobile,No
+248,54,Female,Alberta,Silver,401,20,93,2,1,Yes,No,Mobile,No
+249,29,Male,British Columbia,Silver,46,22,8,3,4,Yes,No,Mobile,No
+250,53,Male,Ontario,Platinum,1111,6,91,5,4,Yes,Yes,Mobile,No
+251,27,Male,Alberta,Silver,304,21,195,4,3,No,No,Mobile,Yes
+252,39,Male,Ontario,Basic,1134,15,121,3,1,No,Yes,Mobile,No
+253,41,Female,Quebec,Gold,190,13,350,5,1,No,Yes,Tablet,No
+254,25,Female,British Columbia,Basic,1006,6,313,0,4,No,Yes,Mobile,No
+255,64,Female,Ontario,Basic,950,10,209,8,4,Yes,Yes,Mobile,No
+256,66,Female,British Columbia,Silver,240,16,197,9,3,Yes,Yes,Tablet,No
+257,62,Male,Quebec,,569,10,131,9,3,Yes,No,Mobile,No
+258,35,Male,Ontario,Platinum,251,22,10,0,1,Yes,Yes,Mobile,No
+259,36,Female,Manitoba,Basic,818,12,141,0,4,No,No,Mobile,No
+260,53,Male,Quebec,Silver,955,3,253,1,2,No,No,Mobile,No
+261,45,Female,,Silver,358,9,131,9,2,Yes,Yes,Desktop,No
+262,66,Male,Alberta,Silver,1193,14,42,8,5,No,Yes,Desktop,No
+263,59,Male,Manitoba,Basic,519,9,19,7,3,Yes,No,Mobile,No
+264,34,Male,British Columbia,Basic,27,6,241,0,3,Yes,No,Desktop,Yes
+265,61,Male,Alberta,Basic,237,5,328,4,4,No,Yes,Mobile,No
+266,66,Female,Ontario,Gold,287,21,51,0,1,Yes,Yes,Mobile,No
+267,62,Female,Ontario,Silver,1108,17,321,9,2,No,Yes,Tablet,No
+268,38,Female,Alberta,Silver,519,2,232,8,5,Yes,No,Mobile,Yes
+269,61,,Quebec,Basic,91,1,153,0,4,No,Yes,Mobile,Yes
+270,22,Male,British Columbia,Basic,714,7,145,7,2,No,Yes,Desktop,Yes
+271,51,Female,Ontario,Basic,493,23,100,3,2,Yes,No,Mobile,No
+272,18,Male,Manitoba,Basic,124,7,178,6,2,No,Yes,Mobile,Yes
+273,68,Female,Manitoba,Basic,,18,124,3,3,Yes,Yes,Desktop,No
+274,33,Female,Ontario,Gold,729,11,70,6,1,Yes,No,Mobile,No
+275,53,Male,Alberta,Basic,645,11,286,5,3,Yes,Yes,Mobile,No
+276,26,Male,Alberta,Basic,751,22,44,5,3,No,Yes,Mobile,No
+277,46,Female,Quebec,Platinum,724,12,295,4,3,Yes,Yes,Mobile,No
+278,31,Female,Manitoba,Basic,134,0,248,6,3,Yes,Yes,Mobile,Yes
+279,42,Female,Manitoba,Silver,345,19,315,8,2,No,Yes,Desktop,No
+280,65,Male,Ontario,Silver,941,24,8,1,3,No,No,Mobile,No
+281,51,Female,Quebec,Gold,952,0,7,8,2,No,Yes,Desktop,Yes
+282,68,Female,,Silver,67,23,343,3,3,No,Yes,Mobile,No
+283,22,Male,Alberta,Gold,64,7,141,5,1,No,No,Mobile,Yes
+284,66,Female,Alberta,Gold,331,13,318,1,5,Yes,No,Desktop,No
+285,30,Female,Quebec,Silver,127,15,303,8,2,Yes,No,Mobile,Yes
+286,18,Male,Alberta,Basic,1112,15,102,9,1,No,Yes,Mobile,Yes
+287,43,Female,Manitoba,Silver,595,23,154,0,5,No,No,Mobile,No
+288,23,Female,Quebec,Platinum,,22,110,0,3,Yes,No,Mobile,No
+289,25,Male,Manitoba,Platinum,1098,16,256,8,2,Yes,No,Mobile,Yes
+290,58,Male,Alberta,Basic,471,8,198,4,5,Yes,Yes,Desktop,No
+291,49,Male,Ontario,Gold,635,16,298,7,,Yes,Yes,Desktop,No
+292,57,Female,Ontario,Gold,53,21,181,8,3,No,Yes,Desktop,No
+293,46,Male,Manitoba,Silver,796,14,127,0,2,No,Yes,Mobile,No
+294,37,Female,Alberta,Basic,194,6,253,1,3,No,Yes,Desktop,No
+295,50,Male,Manitoba,Basic,888,7,21,8,2,No,Yes,Mobile,No
+296,66,Female,Manitoba,Basic,629,22,274,8,3,No,Yes,Mobile,No
+297,66,Female,Ontario,Basic,879,16,93,6,2,Yes,No,Tablet,No
+298,30,Male,Manitoba,Silver,204,3,39,3,2,No,Yes,Tablet,No
+299,33,Male,Ontario,Gold,603,0,225,9,5,No,No,Tablet,No
+300,43,Female,Ontario,Silver,966,13,108,3,5,Yes,Yes,Mobile,No
+301,47,Female,Quebec,Gold,650,1,271,8,5,No,Yes,Desktop,No
+302,67,Male,Manitoba,Basic,125,18,90,4,5,Yes,Yes,Mobile,No
+303,61,Male,British Columbia,Silver,,1,19,1,3,No,Yes,Tablet,No
+304,34,Female,Manitoba,Silver,523,22,288,3,4,Yes,No,Desktop,No
+305,65,Male,Manitoba,Basic,420,2,290,1,2,No,Yes,Mobile,Yes
+306,20,Female,Manitoba,Basic,103,0,239,6,2,No,No,Mobile,Yes
+307,51,Male,Quebec,Silver,1120,15,237,4,5,Yes,Yes,Desktop,No
+308,,Female,Alberta,Silver,932,1,128,3,4,No,Yes,Desktop,No
+309,44,Male,British Columbia,Silver,901,7,317,4,1,Yes,Yes,Mobile,No
+310,26,Male,Manitoba,Basic,822,13,29,4,5,No,Yes,Mobile,No
+311,25,Male,Manitoba,Silver,770,1,290,1,3,Yes,Yes,Mobile,No
+312,46,Female,Manitoba,Silver,274,6,5,6,5,Yes,No,Mobile,No
+313,33,Male,Alberta,Silver,213,4,257,2,5,No,No,Mobile,No
+314,30,Female,Manitoba,Basic,856,20,118,7,2,No,No,Desktop,Yes
+315,44,Male,Ontario,Platinum,160,8,299,6,4,No,No,Mobile,No
+316,65,Male,,Silver,395,20,52,5,4,Yes,Yes,Mobile,No
+317,68,Female,Quebec,Basic,496,7,353,1,1,Yes,No,Desktop,Yes
+318,41,Male,British Columbia,Silver,276,20,68,4,2,Yes,Yes,Mobile,No
+319,41,Male,British Columbia,Platinum,327,13,196,3,1,No,No,Mobile,No
+320,45,Male,Ontario,Basic,419,15,297,1,,No,Yes,Mobile,No
+92,50,Male,Alberta,Basic,1136,2,90,0,4,No,Yes,Desktop,No
+56,34,Female,Ontario,Silver,326,5,136,8,1,No,Yes,Mobile,No
+60,30,Female,Quebec,Silver,84,22,75,7,3,Yes,No,Mobile,No
+199,43,Male,Ontario,Platinum,213,18,328,3,3,No,Yes,Mobile,No
+217,67,Female,Alberta,Gold,1179,9,56,3,1,Yes,No,Desktop,No
