@@ -6,7 +6,7 @@
 
 Train and compare two classification models - **Logistic Regression** and **SVM** - on the e-commerce customer churn dataset, and evaluate them using standard classification metrics.
 
-- **Target:** `Churned` (Yes / No → 1 / 0)
+- **Target:** `Churned` (Yes / No - 1 / 0)
 - **Task:** Supervised binary classification
 
 ## Dataset
