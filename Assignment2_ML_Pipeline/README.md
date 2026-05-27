@@ -1,6 +1,6 @@
-# Assignment 2 — End-to-End ML Pipeline
+# Assignment 2 - End-to-End ML Pipeline
 
-**Course:** MBAI 5310G-001: AI Programming — Ontario Tech University
+**Course:** MBAI 5310G-001: AI Programming - Ontario Tech University
 
 ## Overview
 
