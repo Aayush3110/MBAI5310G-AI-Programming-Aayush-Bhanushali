@@ -1,17 +1,17 @@
-# Assignment 3 — Classification Models and Evaluation
+# Assignment 3 - Classification Models and Evaluation
 
-**Course:** MBAI 5310G-001: AI Programming — Ontario Tech University
+**Course:** MBAI 5310G: AI Programming - Ontario Tech University
 
 ## Overview
 
-Train and compare two classification models — **Logistic Regression** and **SVM** — on the e-commerce customer churn dataset, and evaluate them using standard classification metrics.
+Train and compare two classification models - **Logistic Regression** and **SVM** - on the e-commerce customer churn dataset, and evaluate them using standard classification metrics.
 
 - **Target:** `Churned` (Yes / No → 1 / 0)
 - **Task:** Supervised binary classification
 
 ## Dataset
 
-`ecommerce_customer_churn_dataset.csv` — 325 customer records, 14 columns. See the dataset description in the notebook.
+`ecommerce_customer_churn_dataset.csv` - 325 customer records, 14 columns. See the dataset description in the notebook.
 
 ## Pipeline Steps
 
