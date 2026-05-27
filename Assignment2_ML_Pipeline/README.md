@@ -6,7 +6,7 @@
 
 End-to-end machine learning pipeline that predicts e-commerce customer churn from customer attributes and behaviour.
 
-- **Target:** `Churned` (Yes / No → 1 / 0)
+- **Target:** `Churned` (Yes / No - 1 / 0)
 - **Task:** Supervised binary classification
 - **Baseline model:** Logistic Regression (Decision Tree also included for comparison)
 
