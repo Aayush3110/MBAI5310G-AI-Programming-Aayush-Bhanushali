@@ -1,0 +1,65 @@
+Actual,Predicted,Probability_No_Churn,Probability_Churn,Actual_Label,Predicted_Label,Decision_Explanation
+0,1,0.426,0.574,No Churn,Churn,Predicted Churn because probability is 0.50 or higher
+0,0,0.946,0.054,No Churn,No Churn,Predicted No Churn because probability is below 0.50
+0,0,0.981,0.019,No Churn,No Churn,Predicted No Churn because probability is below 0.50
+0,0,0.998,0.002,No Churn,No Churn,Predicted No Churn because probability is below 0.50
+0,0,0.996,0.004,No Churn,No Churn,Predicted No Churn because probability is below 0.50
+0,0,0.979,0.021,No Churn,No Churn,Predicted No Churn because probability is below 0.50
+0,0,0.55,0.45,No Churn,No Churn,Predicted No Churn because probability is below 0.50
+1,0,0.958,0.042,Churn,No Churn,Predicted No Churn because probability is below 0.50
+0,0,0.991,0.009,No Churn,No Churn,Predicted No Churn because probability is below 0.50
+0,0,0.984,0.016,No Churn,No Churn,Predicted No Churn because probability is below 0.50
+0,0,0.993,0.007,No Churn,No Churn,Predicted No Churn because probability is below 0.50
+0,0,0.928,0.072,No Churn,No Churn,Predicted No Churn because probability is below 0.50
+0,0,0.992,0.008,No Churn,No Churn,Predicted No Churn because probability is below 0.50
+0,0,0.999,0.001,No Churn,No Churn,Predicted No Churn because probability is below 0.50
+0,1,0.469,0.531,No Churn,Churn,Predicted Churn because probability is 0.50 or higher
+0,0,0.909,0.091,No Churn,No Churn,Predicted No Churn because probability is below 0.50
+0,0,0.995,0.005,No Churn,No Churn,Predicted No Churn because probability is below 0.50
+0,0,0.964,0.036,No Churn,No Churn,Predicted No Churn because probability is below 0.50
+0,0,0.996,0.004,No Churn,No Churn,Predicted No Churn because probability is below 0.50
+1,1,0.215,0.785,Churn,Churn,Predicted Churn because probability is 0.50 or higher
+0,0,0.509,0.491,No Churn,No Churn,Predicted No Churn because probability is below 0.50
+1,1,0.066,0.934,Churn,Churn,Predicted Churn because probability is 0.50 or higher
+0,0,0.815,0.185,No Churn,No Churn,Predicted No Churn because probability is below 0.50
+0,0,0.997,0.003,No Churn,No Churn,Predicted No Churn because probability is below 0.50
+1,1,0.201,0.799,Churn,Churn,Predicted Churn because probability is 0.50 or higher
+0,0,0.997,0.003,No Churn,No Churn,Predicted No Churn because probability is below 0.50
+1,1,0.013,0.987,Churn,Churn,Predicted Churn because probability is 0.50 or higher
+0,0,0.917,0.083,No Churn,No Churn,Predicted No Churn because probability is below 0.50
+0,1,0.276,0.724,No Churn,Churn,Predicted Churn because probability is 0.50 or higher
+0,0,0.951,0.049,No Churn,No Churn,Predicted No Churn because probability is below 0.50
+0,0,0.987,0.013,No Churn,No Churn,Predicted No Churn because probability is below 0.50
+0,0,0.819,0.181,No Churn,No Churn,Predicted No Churn because probability is below 0.50
+0,0,0.901,0.099,No Churn,No Churn,Predicted No Churn because probability is below 0.50
+1,0,0.605,0.395,Churn,No Churn,Predicted No Churn because probability is below 0.50
+0,0,0.773,0.227,No Churn,No Churn,Predicted No Churn because probability is below 0.50
+1,1,0.123,0.877,Churn,Churn,Predicted Churn because probability is 0.50 or higher
+1,1,0.152,0.848,Churn,Churn,Predicted Churn because probability is 0.50 or higher
+1,0,0.901,0.099,Churn,No Churn,Predicted No Churn because probability is below 0.50
+0,0,0.799,0.201,No Churn,No Churn,Predicted No Churn because probability is below 0.50
+1,0,0.882,0.118,Churn,No Churn,Predicted No Churn because probability is below 0.50
+0,0,0.91,0.09,No Churn,No Churn,Predicted No Churn because probability is below 0.50
+1,1,0.091,0.909,Churn,Churn,Predicted Churn because probability is 0.50 or higher
+0,0,0.909,0.091,No Churn,No Churn,Predicted No Churn because probability is below 0.50
+0,0,0.991,0.009,No Churn,No Churn,Predicted No Churn because probability is below 0.50
+1,1,0.058,0.942,Churn,Churn,Predicted Churn because probability is 0.50 or higher
+0,0,0.591,0.409,No Churn,No Churn,Predicted No Churn because probability is below 0.50
+0,0,0.995,0.005,No Churn,No Churn,Predicted No Churn because probability is below 0.50
+0,0,0.956,0.044,No Churn,No Churn,Predicted No Churn because probability is below 0.50
+0,0,0.99,0.01,No Churn,No Churn,Predicted No Churn because probability is below 0.50
+1,1,0.147,0.853,Churn,Churn,Predicted Churn because probability is 0.50 or higher
+0,0,0.963,0.037,No Churn,No Churn,Predicted No Churn because probability is below 0.50
+0,1,0.375,0.625,No Churn,Churn,Predicted Churn because probability is 0.50 or higher
+0,0,0.541,0.459,No Churn,No Churn,Predicted No Churn because probability is below 0.50
+0,0,0.956,0.044,No Churn,No Churn,Predicted No Churn because probability is below 0.50
+0,0,0.998,0.002,No Churn,No Churn,Predicted No Churn because probability is below 0.50
+1,1,0.171,0.829,Churn,Churn,Predicted Churn because probability is 0.50 or higher
+1,0,0.985,0.015,Churn,No Churn,Predicted No Churn because probability is below 0.50
+0,0,0.793,0.207,No Churn,No Churn,Predicted No Churn because probability is below 0.50
+0,0,0.998,0.002,No Churn,No Churn,Predicted No Churn because probability is below 0.50
+0,0,0.942,0.058,No Churn,No Churn,Predicted No Churn because probability is below 0.50
+1,0,0.83,0.17,Churn,No Churn,Predicted No Churn because probability is below 0.50
+0,0,0.662,0.338,No Churn,No Churn,Predicted No Churn because probability is below 0.50
+1,1,0.041,0.959,Churn,Churn,Predicted Churn because probability is 0.50 or higher
+0,0,0.681,0.319,No Churn,No Churn,Predicted No Churn because probability is below 0.50
