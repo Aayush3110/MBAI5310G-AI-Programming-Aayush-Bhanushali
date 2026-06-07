@@ -21,9 +21,9 @@ Train and compare two classification models - **Logistic Regression** and **SVM*
 4. Define features and target
 5. Train/test split (80/20, stratified)
 6. Preprocessing (`StandardScaler` + `OneHotEncoder` via `ColumnTransformer`)
-7. Baseline model — Logistic Regression
+7. Baseline model - Logistic Regression
 8. Evaluate Logistic Regression
-9. Comparison model — SVM
+9. Comparison model - SVM
 10. Evaluate SVM and compare with Logistic Regression
 11. Interpret classification outputs (predicted probabilities)
 12. Final interpretation and business conclusion
@@ -46,7 +46,7 @@ Accuracy, Precision, Recall, F1-score, Confusion Matrix, Classification Report, 
 
 ```
 Assignment3_Classification_Models/
-├── Assignment3_Aayush_Bhanushali.ipynb
+├── Assignment3_Aayush_B.ipynb
 ├── ecommerce_customer_churn_dataset.csv
 ├── outputs/
 │   ├── cleaned_ecommerce_customer_churn_dataset.csv
