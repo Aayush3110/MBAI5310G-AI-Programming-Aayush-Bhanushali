@@ -9,7 +9,7 @@
 
 AdVantage Growth Studio is a data-driven marketing agency that helps small and medium-sized businesses run campaigns across channels such as Email, Social Media, Search Ads, Display Ads, and SMS. The agency's core problem is **campaign inefficiency**: budget is wasted on customers who won't convert, while converters who could have been targeted more effectively are sometimes missed.
 
-This project builds a Decision Tree classifier that predicts whether a customer will convert (`Yes` / `No`) after receiving a campaign. The model's outputs - predicted classes plus feature importance — are intended as a **decision-support tool** to prioritise follow-up marketing.
+This project builds a Decision Tree classifier that predicts whether a customer will convert (`Yes` / `No`) after receiving a campaign. The model's outputs - predicted classes plus feature importance - are intended as a **decision-support tool** to prioritise follow-up marketing.
 
 ## Dataset
 
