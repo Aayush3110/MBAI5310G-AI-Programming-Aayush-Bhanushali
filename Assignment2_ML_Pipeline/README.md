@@ -40,7 +40,7 @@ End-to-end machine learning pipeline that predicts e-commerce customer churn fro
 5. Data cleaning (median/mode imputation, drop duplicates, fix dtypes)
 6. Preprocessing (`StandardScaler` + `OneHotEncoder` via `ColumnTransformer`)
 7. Train/test split (80/20, stratified)
-8. Baseline model — Logistic Regression
+8. Baseline model - Logistic Regression
 9. Evaluate the baseline model
 10. Interpret results
 11. Responsible AI reflection
@@ -51,7 +51,7 @@ A short written summary answering the assignment questions (what the model predi
 
 ```
 Assignment2_ML_Pipeline/
-├── Assignment2_Aayush_Bhanushali.ipynb
+├── Assignment2_Aayush_B.ipynb
 ├── ecommerce_customer_churn_dataset.csv
 └── README.md
 ```
