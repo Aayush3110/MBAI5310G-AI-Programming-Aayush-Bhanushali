@@ -1,6 +1,6 @@
-# Assignment 4 — Decision Tree Model and Business Interpretation
+# Assignment 4 - Decision Tree Model and Business Interpretation
 
-**Course:** MBAI 5310G-001: AI Programming — Ontario Tech University
+**Course:** MBAI 5310G: AI Programming - Ontario Tech University
 **Business:** FreshBasket Subscription Grocery Delivery
 **Dataset:** FreshBasket Customer Churn Dataset (`freshbasket_customer_churn_dataset.xlsx`)
 **Model:** Decision Tree Classifier (scikit-learn)
@@ -9,11 +9,11 @@
 
 FreshBasket is a subscription-based grocery delivery service operating in the Greater Toronto Area. Revenue depends on **repeat customers**, so customer retention is critical: when subscribers cancel or fail to renew, the business loses recurring revenue and must spend more on acquisition to replace them.
 
-This project builds a Decision Tree classifier that predicts whether a customer will churn (`Yes` / `No`). The intended use is **retention decision-support** — identify at-risk customers so the team can intervene early with service recovery, targeted offers, or operational fixes.
+This project builds a Decision Tree classifier that predicts whether a customer will churn (`Yes` / `No`). The intended use is **retention decision-support** - identify at-risk customers so the team can intervene early with service recovery, targeted offers, or operational fixes.
 
 ## Dataset
 
-`freshbasket_customer_churn_dataset.xlsx` — 425 customer records, 16 columns. Includes 5 intentional duplicate rows and small numbers of missing values across four columns (`Region`, `Monthly_Spend`, `App_Engagement_Score`, `Satisfaction_Score`) for data-preparation practice.
+`freshbasket_customer_churn_dataset.xlsx` - 425 customer records, 16 columns. Includes 5 intentional duplicate rows and small numbers of missing values across four columns (`Region`, `Monthly_Spend`, `App_Engagement_Score`, `Satisfaction_Score`) for data-preparation practice.
 
 | Group | Columns |
 |---|---|
@@ -60,9 +60,9 @@ A short written summary answering the assignment questions (performance, overfit
 | Controlled (`max_depth=4`) | 0.816 | 0.762 | 0.054 |
 | Unrestricted (`max_depth=None`) | 1.000 | 0.702 | 0.298 |
 
-**Overfitting verdict:** the controlled tree shows only mild overfitting (≈5-point gap). The unrestricted tree clearly overfits (≈30-point gap) — it memorises the training set and loses predictive power on new customers.
+**Overfitting verdict:** the controlled tree shows only mild overfitting (≈5-point gap). The unrestricted tree clearly overfits (≈30-point gap) - it memorises the training set and loses predictive power on new customers.
 
-**Important caveat:** the accuracy figure is partly inflated by class imbalance — a naive "predict everyone stays" model would already hit ≈0.72. The model's true weakness is **recall: only about 22% of actual churners are caught**, which is exactly the wrong trade-off for a retention business.
+**Important caveat:** the accuracy figure is partly inflated by class imbalance - a naive "predict everyone stays" model would already hit ≈0.72. The model's true weakness is **recall: only about 22% of actual churners are caught**, which is exactly the wrong trade-off for a retention business.
 
 ## Key Business Insights
 
@@ -73,7 +73,7 @@ A short written summary answering the assignment questions (performance, overfit
 
 ## One Limitation
 
-The dataset is **synthetic, small (≈420 rows after cleaning, only ≈118 churners), and class-imbalanced**. With so few churn examples, the tree has very limited material to learn from on the minority class — the most likely reason recall is so poor. The model also uses `Age_Group` and `Region` directly, which introduces a fairness consideration: if certain customer groups are under-represented in the training data, predictions for those groups may be unreliable or unfair. The model should be used as **decision support**, not as an automated cancel-prevention system.
+The dataset is **synthetic, small (≈420 rows after cleaning, only ≈118 churners), and class-imbalanced**. With so few churn examples, the tree has very limited material to learn from on the minority class - the most likely reason recall is so poor. The model also uses `Age_Group` and `Region` directly, which introduces a fairness consideration: if certain customer groups are under-represented in the training data, predictions for those groups may be unreliable or unfair. The model should be used as **decision support**, not as an automated cancel-prevention system.
 
 ## Files
 
