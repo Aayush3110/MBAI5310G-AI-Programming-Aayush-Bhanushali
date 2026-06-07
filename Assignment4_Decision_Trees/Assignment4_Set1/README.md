@@ -75,8 +75,8 @@ The dataset is **synthetic and modestly sized (≈600 rows)**, which limits how 
 ## Files
 
 ```
-Assignment4_Decision_Tree/
-├── Assignment4_Aayush_Bhanushali.ipynb
+Assignment4_Decision_Trees/Assignment4_Set1/
+├── Assignment4_Aayush_B.ipynb
 ├── marketing_campaign_decision_tree_dataset.xlsx
 ├── business_plan_marketing_campaign_decision_tree.docx
 └── README.md
