@@ -78,7 +78,7 @@ The dataset is **synthetic, small (≈420 rows after cleaning, only ≈118 churn
 ## Files
 
 ```
-Assignment4_FreshBasket_Decision_Tree/
+Assignment4_Decision_Trees/
 ├── Assignment4_FreshBasket_Aayush_Bhanushali.ipynb
 ├── freshbasket_customer_churn_dataset.xlsx
 ├── business_plan_freshbasket_customer_churn.docx
