@@ -68,7 +68,7 @@ A short written summary answering the assignment questions (performance, overfit
 
 - **Top features:** `Satisfaction_Score` (clearly dominant), `Monthly_Spend`, `Delivery_Issues_Last_3_Months`, `App_Engagement_Score`, `Membership_Length_Months`. Service-quality and engagement signals dominate demographics.
 - **Recommended primary metric: Recall** (with F1 as a close second). Missing a churner means lost recurring revenue, which is typically more expensive than spending a retention offer on someone who would have stayed anyway.
-- **False positives** = wasted retention spend (unnecessary discount or support call). **False negatives** = missed at-risk customer who then cancels → lost subscription revenue.
+- **False positives** = wasted retention spend (unnecessary discount or support call). **False negatives** = missed at-risk customer who then cancels - lost subscription revenue.
 - **Actionable use:** trigger retention outreach when satisfaction drops below threshold; investigate delivery issues in regions where they cluster; design app re-engagement nudges for low-activity users; give long-tenured / high-spend customers the highest-touch treatment.
 
 ## One Limitation
@@ -78,8 +78,8 @@ The dataset is **synthetic, small (≈420 rows after cleaning, only ≈118 churn
 ## Files
 
 ```
-Assignment4_Decision_Trees/
-├── Assignment4_FreshBasket_Aayush_Bhanushali.ipynb
+Assignment4_Decision_Trees/Assignment4_Set2/
+├── Assignment4_Aayush_B.ipynb
 ├── freshbasket_customer_churn_dataset.xlsx
 ├── business_plan_freshbasket_customer_churn.docx
 └── README.md
