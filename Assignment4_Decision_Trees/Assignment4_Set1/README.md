@@ -1,6 +1,6 @@
-# Assignment 4 — Decision Tree Model and Business Interpretation
+# Assignment 4 - Decision Tree Model and Business Interpretation
 
-**Course:** MBAI 5310G: AI Programming — Ontario Tech University
+**Course:** MBAI 5310G: AI Programming - Ontario Tech University
 **Business:** AdVantage Growth Studio (marketing campaign analytics)
 **Dataset:** Marketing Campaign Decision Tree Dataset (`marketing_campaign_decision_tree_dataset.xlsx`)
 **Model:** Decision Tree Classifier (scikit-learn)
@@ -9,11 +9,11 @@
 
 AdVantage Growth Studio is a data-driven marketing agency that helps small and medium-sized businesses run campaigns across channels such as Email, Social Media, Search Ads, Display Ads, and SMS. The agency's core problem is **campaign inefficiency**: budget is wasted on customers who won't convert, while converters who could have been targeted more effectively are sometimes missed.
 
-This project builds a Decision Tree classifier that predicts whether a customer will convert (`Yes` / `No`) after receiving a campaign. The model's outputs — predicted classes plus feature importance — are intended as a **decision-support tool** to prioritise follow-up marketing.
+This project builds a Decision Tree classifier that predicts whether a customer will convert (`Yes` / `No`) after receiving a campaign. The model's outputs - predicted classes plus feature importance — are intended as a **decision-support tool** to prioritise follow-up marketing.
 
 ## Dataset
 
-`marketing_campaign_decision_tree_dataset.xlsx` — 605 customer campaign records, 21 columns. Includes 5 intentional duplicate rows and small numbers of missing values across four columns (`Annual_Income`, `Customer_Segment`, `Average_Order_Value`, `Customer_Satisfaction`) for data-preparation practice.
+`marketing_campaign_decision_tree_dataset.xlsx` - 605 customer campaign records, 21 columns. Includes 5 intentional duplicate rows and small numbers of missing values across four columns (`Annual_Income`, `Customer_Segment`, `Average_Order_Value`, `Customer_Satisfaction`) for data-preparation practice.
 
 | Group | Columns |
 |---|---|
@@ -63,7 +63,7 @@ A short written summary answering the assignment questions (model performance, o
 
 ## Key Business Insights
 
-- **Top features:** `Loyalty_Score`, `Previous_Purchases`, `Ad_Clicked`, `Days_Since_Last_Purchase`, `Annual_Income`. Customer-relationship and engagement signals beat raw demographics — consistent with the business plan's expectations.
+- **Top features:** `Loyalty_Score`, `Previous_Purchases`, `Ad_Clicked`, `Days_Since_Last_Purchase`, `Annual_Income`. Customer-relationship and engagement signals beat raw demographics - consistent with the business plan's expectations.
 - **Recommended primary metric: F1-score**, because the business cares about both wasting budget (precision) and missing converters (recall).
 - **False positives** = wasted ad budget on customers who won't convert. **False negatives** = missed revenue from customers who would have.
 - **Actionable suggestions** from the feature ranking: retarget customers who clicked an ad, build retention/reactivation campaigns based on loyalty and recency, A/B-test discount levels rather than maxing them out.
