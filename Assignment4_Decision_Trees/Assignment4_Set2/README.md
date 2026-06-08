@@ -2,7 +2,7 @@
 
 **Course:** MBAI 5310G: AI Programming - Ontario Tech University
 **Business:** FreshBasket Subscription Grocery Delivery
-**Dataset:** FreshBasket Customer Churn Dataset (`freshbasket_customer_churn_dataset.xlsx`)
+**Dataset:** FreshBasket Customer Churn Dataset (`freshbasket_customer_churn_dataset.csv`)
 **Model:** Decision Tree Classifier (scikit-learn)
 
 ## Business Problem
@@ -13,7 +13,7 @@ This project builds a Decision Tree classifier that predicts whether a customer 
 
 ## Dataset
 
-`freshbasket_customer_churn_dataset.xlsx` - 425 customer records, 16 columns. Includes 5 intentional duplicate rows and small numbers of missing values across four columns (`Region`, `Monthly_Spend`, `App_Engagement_Score`, `Satisfaction_Score`) for data-preparation practice.
+`freshbasket_customer_churn_dataset.csv` - 425 customer records, 16 columns. Includes 5 intentional duplicate rows and small numbers of missing values across four columns (`Region`, `Monthly_Spend`, `App_Engagement_Score`, `Satisfaction_Score`) for data-preparation practice.
 
 | Group | Columns |
 |---|---|
@@ -80,8 +80,8 @@ The dataset is **synthetic, small (≈420 rows after cleaning, only ≈118 churn
 ```
 Assignment4_Decision_Trees/Assignment4_Set2/
 ├── Assignment4_Aayush_B.ipynb
-├── freshbasket_customer_churn_dataset.xlsx
-├── business_plan_freshbasket_customer_churn.docx
+├── freshbasket_customer_churn_dataset.csv
+├── business_plan_freshbasket_customer_churn.pdf
 └── README.md
 ```
 
