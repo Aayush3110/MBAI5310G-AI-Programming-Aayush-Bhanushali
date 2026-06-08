@@ -1,0 +1,303 @@
+Customer_ID,Age,Income_Level,Account_Tenure_Years,Average_Monthly_Balance,Monthly_Transactions,Digital_Banking_Usage,Credit_Score_Band,Existing_Loan,Has_Savings_Account,Previous_Campaign_Response,Service_Complaints_6M,Branch_Visits_6M,Marketing_Channel,Offer_Type,Accepted_Offer
+BW0001,48.0,High,10.2,692.64,25,High,Good,No,No,No Response,1,6,Phone,Low Interest,No
+BW0002,41.0,Low,0.8,2972.25,12,Low,Fair,No,Yes,No Response,1,0,Mobile App,Cashback,No
+BW0003,55.0,High,2.0,6072.03,16,Low,Excellent,No,No,No Response,0,5,SMS,Balance Transfer,No
+BW0004,33.0,Medium,11.2,4663.6,40,Medium,Excellent,Yes,No,Clicked,2,8,Phone,Cashback,No
+BW0005,25.0,Medium,17.2,4843.28,43,Medium,Fair,No,Yes,No Response,1,5,Branch,Cashback,No
+BW0006,52.0,Very High,8.1,4408.88,34,High,Good,No,No,No Response,0,4,Branch,Low Interest,Yes
+BW0007,55.0,Medium,1.2,2633.44,35,High,Good,Yes,No,No Response,2,6,SMS,Balance Transfer,No
+BW0008,42.0,High,4.6,4077.88,30,High,Fair,Yes,No,No Response,0,0,Branch,Cashback,No
+BW0009,,Low,6.2,1391.39,34,Medium,Good,No,Yes,Clicked,0,2,Phone,Cashback,Yes
+BW0010,46.0,Very High,10.3,7676.4,45,Low,Good,No,Yes,No Response,0,3,SMS,Travel Rewards,Yes
+BW0011,39.0,Very High,6.7,5598.31,19,Low,Poor,No,No,No Response,0,2,Mobile App,Balance Transfer,No
+BW0012,41.0,Low,0.3,1200.54,35,Medium,Fair,Yes,No,No Response,1,2,Mobile App,Low Interest,No
+BW0013,57.0,Medium,0.6,3559.26,32,High,Good,No,Yes,No Response,0,3,Mobile App,Travel Rewards,Yes
+BW0014,43.0,Medium,13.7,1647.81,37,Low,Fair,No,No,Clicked,2,6,Mobile App,Cashback,No
+BW0015,44.0,Low,12.3,3974.45,28,High,Fair,No,Yes,Clicked,0,3,Email,Cashback,No
+BW0016,18.0,Low,11.0,2926.63,29,Low,Good,No,Yes,Clicked,1,1,SMS,Cashback,No
+BW0017,34.0,High,10.3,1599.19,48,High,Poor,No,Yes,No Response,0,3,Mobile App,Low Interest,No
+BW0018,48.0,High,6.2,12733.75,9,Medium,Fair,No,No,No Response,0,3,Email,Travel Rewards,No
+BW0019,32.0,Very High,4.3,5425.8,20,Medium,Good,No,No,Applied,0,3,Mobile App,Travel Rewards,No
+BW0020,40.0,Low,2.2,3041.43,7,Low,Poor,No,Yes,No Response,0,0,Mobile App,Balance Transfer,No
+BW0021,38.0,Low,0.1,1696.0,19,Low,Good,Yes,No,Clicked,0,4,Mobile App,Travel Rewards,No
+BW0022,73.0,Low,11.5,1822.85,19,Medium,Good,No,Yes,No Response,0,2,Mobile App,Travel Rewards,No
+BW0023,43.0,Very High,4.9,5076.85,23,High,Good,No,No,No Response,0,3,Email,Cashback,No
+BW0024,27.0,High,3.3,11577.37,36,Medium,Fair,No,Yes,No Response,1,2,Email,Low Interest,No
+BW0025,53.0,Medium,0.2,5561.17,18,High,Excellent,No,Yes,No Response,0,4,Phone,Balance Transfer,No
+BW0026,41.0,Medium,4.5,3666.7,46,Medium,Good,Yes,No,No Response,0,2,Phone,Balance Transfer,No
+BW0027,52.0,High,1.0,5365.6,36,Medium,Fair,Yes,Yes,No Response,0,3,Mobile App,Low Interest,No
+BW0028,37.0,Medium,2.6,2802.53,30,Low,Good,Yes,Yes,No Response,0,4,Mobile App,Low Interest,No
+BW0029,47.0,Medium,2.5,2176.79,21,Low,Excellent,No,Yes,Clicked,0,1,Email,Cashback,Yes
+BW0030,44.0,High,11.7,1580.55,41,Low,Fair,No,Yes,Clicked,0,1,Email,Cashback,Yes
+BW0031,38.0,Medium,8.7,1889.01,25,High,Excellent,Yes,Yes,Applied,0,3,Phone,Balance Transfer,Yes
+BW0032,31.0,High,11.6,,25,High,Poor,No,No,No Response,2,4,SMS,Low Interest,No
+BW0033,21.0,Very High,1.8,14645.51,12,High,Good,No,Yes,Clicked,2,4,SMS,Low Interest,Yes
+BW0034,39.0,Low,5.2,1807.63,47,High,Fair,No,No,No Response,0,2,Phone,Travel Rewards,No
+BW0035,42.0,Medium,1.3,10197.96,33,High,Good,No,No,No Response,3,1,Email,Cashback,No
+BW0036,57.0,Very High,2.6,1303.3,16,Medium,Good,Yes,No,Clicked,0,3,Email,Balance Transfer,No
+BW0037,31.0,Low,1.1,2095.21,27,Medium,Poor,No,No,No Response,0,0,Mobile App,Travel Rewards,No
+BW0038,32.0,High,11.0,9469.4,25,High,Poor,No,No,No Response,3,3,Branch,Travel Rewards,Yes
+BW0039,46.0,Medium,1.4,8650.92,20,High,Good,No,Yes,No Response,1,0,Mobile App,Low Interest,Yes
+BW0040,54.0,Medium,20.0,5690.04,33,Medium,Good,Yes,Yes,No Response,1,5,SMS,Balance Transfer,No
+BW0041,30.0,Low,2.5,2374.91,26,High,Good,Yes,Yes,No Response,0,3,Mobile App,Low Interest,No
+BW0042,35.0,Medium,10.0,2445.51,40,High,Fair,No,No,No Response,0,0,Mobile App,Balance Transfer,No
+BW0043,28.0,Medium,5.3,843.86,32,Medium,Poor,No,Yes,No Response,0,1,SMS,Low Interest,No
+BW0044,33.0,Low,7.4,2839.7,20,Low,Good,Yes,Yes,No Response,1,5,SMS,Travel Rewards,No
+BW0045,64.0,High,3.7,3684.46,25,Medium,Good,No,No,Clicked,0,6,Email,Travel Rewards,Yes
+BW0046,62.0,High,1.8,6625.56,28,High,Good,No,No,No Response,1,1,Email,Low Interest,Yes
+BW0047,32.0,Medium,3.0,3529.82,37,Medium,Good,No,Yes,No Response,1,5,Mobile App,Cashback,No
+BW0048,42.0,High,10.2,4007.56,20,Medium,Poor,No,No,No Response,0,3,Mobile App,Low Interest,Yes
+BW0049,59.0,Very High,1.7,17649.22,6,Medium,Excellent,Yes,Yes,No Response,1,2,Phone,Low Interest,No
+BW0050,43.0,Low,0.3,5494.99,14,High,Poor,Yes,No,No Response,1,0,Email,Travel Rewards,Yes
+BW0051,46.0,High,3.8,4225.49,30,Medium,Fair,No,Yes,Clicked,3,5,Mobile App,Balance Transfer,Yes
+BW0052,47.0,Medium,1.2,2120.27,32,Medium,Fair,No,Yes,No Response,0,5,Phone,Low Interest,No
+BW0053,47.0,High,4.2,8715.32,45,High,Good,Yes,Yes,No Response,0,3,Mobile App,Travel Rewards,No
+BW0054,35.0,Low,4.0,2001.35,34,High,Fair,No,Yes,No Response,0,4,Phone,Balance Transfer,No
+BW0055,39.0,Medium,14.1,1915.41,24,Low,Poor,No,No,Clicked,0,4,Email,Travel Rewards,No
+BW0056,43.0,Low,1.0,2517.78,1,High,Good,No,Yes,No Response,1,7,Phone,Low Interest,No
+BW0057,35.0,Medium,10.9,757.22,31,Low,Excellent,No,Yes,No Response,0,3,Email,Travel Rewards,No
+BW0058,27.0,Very High,3.0,1832.92,20,,Good,No,No,No Response,0,0,Email,Cashback,Yes
+BW0059,44.0,Low,19.2,4926.3,60,Low,Excellent,No,Yes,Clicked,0,2,SMS,Cashback,Yes
+BW0060,54.0,Medium,20.0,3769.0,38,High,Good,No,No,No Response,0,2,Phone,Low Interest,No
+BW0061,49.0,Low,2.1,3170.87,50,Medium,Fair,No,Yes,No Response,0,1,Mobile App,Cashback,No
+BW0062,31.0,High,2.8,5461.08,38,Medium,Good,Yes,Yes,No Response,0,5,Email,Cashback,No
+BW0063,46.0,Medium,9.0,1560.79,16,Medium,Good,No,No,Clicked,0,3,Email,Balance Transfer,No
+BW0064,58.0,Medium,0.1,2724.77,31,Low,Poor,No,Yes,Clicked,0,5,Branch,Travel Rewards,No
+BW0065,38.0,Medium,3.0,965.53,21,Low,Fair,No,No,Clicked,0,1,Email,Low Interest,No
+BW0066,34.0,Low,6.2,2271.93,28,High,Good,No,Yes,Clicked,1,3,Email,Low Interest,No
+BW0067,52.0,High,10.9,2641.8,34,Medium,Good,No,Yes,Clicked,0,3,Mobile App,Cashback,Yes
+BW0068,56.0,Medium,4.4,2368.69,11,Low,Good,No,Yes,Clicked,0,5,Mobile App,Cashback,Yes
+BW0069,41.0,Low,10.3,1961.42,32,Medium,Excellent,No,No,Applied,2,0,Email,Cashback,No
+BW0070,50.0,Medium,1.1,3295.79,48,Medium,Good,Yes,Yes,Applied,0,0,Branch,Travel Rewards,Yes
+BW0071,42.0,Medium,3.8,3788.93,32,Low,Fair,No,Yes,No Response,0,0,Email,Low Interest,No
+BW0072,45.0,High,1.3,7020.02,13,High,Good,No,No,No Response,1,3,Branch,Cashback,No
+BW0073,46.0,Medium,12.7,5271.08,40,Medium,Good,No,No,Clicked,0,3,Mobile App,Balance Transfer,Yes
+BW0074,31.0,Medium,20.0,3099.01,41,High,Good,No,Yes,No Response,0,2,Branch,Cashback,Yes
+BW0075,44.0,Medium,6.5,880.27,33,Medium,Good,Yes,No,Clicked,0,3,Branch,Balance Transfer,Yes
+BW0076,33.0,Low,9.0,4315.05,32,High,Excellent,No,Yes,No Response,0,1,Mobile App,Cashback,No
+BW0077,33.0,Low,3.2,1415.68,13,Medium,Excellent,No,No,No Response,1,0,SMS,Balance Transfer,No
+BW0078,46.0,Low,10.3,2407.23,13,High,Good,No,No,No Response,0,2,SMS,Travel Rewards,No
+BW0079,18.0,High,0.4,9537.02,6,High,Fair,Yes,No,No Response,1,2,Email,Low Interest,No
+BW0080,47.0,High,5.7,12860.2,23,Low,Good,Yes,Yes,No Response,0,2,SMS,Low Interest,No
+BW0081,39.0,Medium,9.4,10326.98,31,High,Fair,No,Yes,Applied,0,3,Email,Cashback,Yes
+BW0082,58.0,Low,5.0,1547.35,28,Low,Good,No,Yes,No Response,0,3,SMS,Cashback,No
+BW0083,46.0,High,20.0,2307.89,50,High,Excellent,No,Yes,No Response,0,2,Mobile App,Travel Rewards,No
+BW0084,42.0,Low,3.5,2767.53,18,High,Fair,No,No,No Response,1,2,Branch,Travel Rewards,No
+BW0085,43.0,Low,4.1,3447.72,46,High,Fair,No,Yes,No Response,2,9,Mobile App,Cashback,No
+BW0086,23.0,Medium,2.6,1042.59,16,High,Excellent,No,Yes,No Response,0,0,Mobile App,Cashback,Yes
+BW0087,59.0,Medium,13.2,6861.2,6,Low,Good,Yes,Yes,No Response,0,7,Email,Travel Rewards,No
+BW0088,38.0,Very High,2.9,5032.04,33,Medium,Poor,No,No,Clicked,0,2,Phone,Cashback,No
+BW0089,57.0,High,0.1,3146.54,37,High,Excellent,No,Yes,No Response,0,2,Email,Travel Rewards,Yes
+BW0090,47.0,High,0.2,7059.15,51,Medium,Poor,Yes,Yes,No Response,1,1,Branch,Low Interest,No
+BW0091,41.0,Low,0.2,4467.76,17,High,Fair,No,Yes,No Response,0,1,Email,Low Interest,No
+BW0092,42.0,Medium,0.1,2211.19,29,Medium,Excellent,No,Yes,Clicked,1,6,SMS,Low Interest,No
+BW0093,37.0,Medium,4.6,2427.3,30,High,Good,Yes,Yes,No Response,1,1,SMS,Travel Rewards,No
+BW0094,25.0,Medium,0.1,3675.33,19,High,Excellent,Yes,Yes,No Response,0,5,Phone,Travel Rewards,No
+BW0095,29.0,High,0.5,3959.9,21,Medium,Fair,Yes,No,No Response,0,0,Email,Cashback,No
+BW0096,29.0,Medium,10.8,1481.6,24,Low,Excellent,No,Yes,No Response,0,4,Email,Travel Rewards,No
+BW0097,48.0,Medium,0.9,3590.62,16,Low,Good,Yes,Yes,No Response,0,1,Mobile App,Balance Transfer,No
+BW0098,23.0,Medium,7.4,1477.09,43,High,Good,Yes,Yes,No Response,0,1,Email,Low Interest,No
+BW0099,48.0,Very High,4.4,3797.9,31,High,Fair,No,Yes,Clicked,1,1,SMS,Travel Rewards,Yes
+BW0100,61.0,Medium,3.6,667.8,37,High,Fair,No,No,No Response,1,1,SMS,Cashback,No
+BW0101,29.0,Low,2.0,3564.71,12,Medium,Good,No,Yes,No Response,0,0,Phone,Low Interest,No
+BW0102,22.0,Medium,2.6,7744.44,21,Low,,Yes,No,No Response,0,6,Branch,Cashback,No
+BW0103,43.0,High,11.2,1758.47,45,Medium,Fair,No,Yes,No Response,0,7,Branch,Low Interest,No
+BW0104,47.0,Medium,2.7,2177.16,24,Low,Good,Yes,No,Clicked,0,7,Mobile App,Balance Transfer,No
+BW0105,31.0,High,4.2,5716.45,13,High,Good,No,Yes,Clicked,1,6,Branch,Cashback,Yes
+BW0106,33.0,Medium,5.2,1883.9,41,High,Good,No,Yes,No Response,0,2,Mobile App,Travel Rewards,Yes
+BW0107,20.0,Medium,2.3,13085.34,27,High,Good,No,No,Clicked,0,0,Mobile App,Cashback,Yes
+BW0108,52.0,High,16.5,16542.19,50,Medium,Poor,No,No,No Response,0,3,SMS,Balance Transfer,No
+BW0109,46.0,Very High,2.3,17984.92,41,Medium,Poor,No,No,No Response,0,4,Phone,Travel Rewards,No
+BW0110,34.0,High,10.7,2354.24,41,Medium,Fair,No,Yes,No Response,0,2,Mobile App,Cashback,No
+BW0111,47.0,Low,0.4,1959.89,28,Medium,Excellent,No,Yes,Applied,0,3,SMS,Travel Rewards,Yes
+BW0112,27.0,High,2.9,3955.94,26,Medium,Good,No,Yes,Clicked,0,5,SMS,Balance Transfer,Yes
+BW0113,31.0,Very High,0.2,16182.36,1,Medium,Good,Yes,No,No Response,0,0,SMS,Balance Transfer,No
+BW0114,57.0,Medium,2.0,4972.92,44,High,Good,No,Yes,No Response,0,3,Mobile App,Cashback,No
+BW0115,35.0,High,15.1,6361.04,15,Medium,Good,Yes,Yes,Clicked,0,2,Email,Cashback,No
+BW0116,29.0,Medium,3.8,4210.45,23,High,Good,No,Yes,No Response,2,0,Email,Travel Rewards,No
+BW0117,57.0,Low,10.5,3058.22,43,Low,Fair,Yes,Yes,No Response,0,3,Mobile App,Cashback,No
+BW0118,28.0,Medium,0.1,1597.59,20,High,Good,Yes,Yes,No Response,3,3,Email,Low Interest,No
+BW0119,39.0,Low,6.5,3153.97,26,High,Excellent,No,No,Applied,0,2,Email,Balance Transfer,Yes
+BW0120,29.0,Medium,3.2,9818.87,36,High,Poor,Yes,No,No Response,0,4,SMS,Low Interest,No
+BW0121,31.0,Medium,12.9,5080.44,29,High,Excellent,Yes,Yes,Clicked,0,3,Branch,Low Interest,No
+BW0122,30.0,Medium,0.3,13547.69,23,Low,Good,Yes,No,Clicked,0,1,Email,Cashback,Yes
+BW0123,34.0,Medium,0.9,1054.71,22,Low,Fair,Yes,Yes,Applied,0,5,SMS,Travel Rewards,No
+BW0124,38.0,Medium,6.8,9893.41,27,High,Excellent,No,No,Clicked,0,2,SMS,Balance Transfer,No
+BW0125,45.0,Medium,9.4,710.56,19,Medium,Excellent,No,Yes,No Response,0,3,Email,Cashback,No
+BW0126,20.0,Medium,4.8,3585.09,37,Medium,Fair,Yes,No,Clicked,0,1,Mobile App,Cashback,Yes
+BW0127,24.0,Medium,0.3,3301.9,21,Medium,Excellent,Yes,No,No Response,1,2,Phone,Cashback,No
+BW0128,44.0,Medium,9.9,1859.48,29,High,Excellent,No,Yes,Clicked,0,6,Mobile App,Balance Transfer,No
+BW0129,43.0,High,0.9,7998.26,38,High,Poor,No,No,Applied,1,1,SMS,Travel Rewards,No
+BW0130,54.0,High,2.2,7352.35,29,High,Good,No,Yes,No Response,3,7,Email,Low Interest,Yes
+BW0131,42.0,Low,16.0,6480.64,42,High,Good,Yes,No,No Response,0,0,SMS,Cashback,No
+BW0132,19.0,Low,4.8,6762.51,37,High,Good,No,Yes,Applied,0,1,Phone,Balance Transfer,Yes
+BW0133,47.0,Low,4.5,5704.47,25,Low,Fair,Yes,No,Applied,1,2,Email,Low Interest,Yes
+BW0134,36.0,Low,2.9,269.24,29,Medium,Excellent,No,Yes,Applied,1,3,Mobile App,Cashback,No
+BW0135,41.0,High,3.0,3825.04,13,Low,Good,No,Yes,Clicked,1,0,Phone,Travel Rewards,No
+BW0136,57.0,Medium,3.0,2122.91,35,Medium,Excellent,No,No,No Response,1,1,SMS,Cashback,Yes
+BW0137,29.0,High,4.8,5592.19,28,High,Good,No,Yes,Clicked,2,0,Phone,Low Interest,No
+BW0138,60.0,Low,2.4,3409.25,2,Medium,Poor,No,Yes,No Response,1,9,Email,Travel Rewards,No
+BW0139,58.0,Very High,3.1,5132.94,27,Low,Excellent,No,Yes,Clicked,1,1,Mobile App,Travel Rewards,Yes
+BW0140,35.0,Medium,14.1,1076.5,25,High,Good,Yes,Yes,Applied,0,2,Branch,Low Interest,Yes
+BW0141,40.0,High,3.8,7971.83,32,Medium,Fair,Yes,Yes,Clicked,0,1,Phone,Cashback,Yes
+BW0142,50.0,Medium,5.8,2572.1,27,Medium,Good,No,No,No Response,0,3,SMS,Low Interest,No
+BW0143,31.0,Low,0.6,862.94,23,High,Fair,No,No,No Response,1,5,Mobile App,Cashback,No
+BW0144,47.0,Very High,1.7,3108.95,29,Low,Fair,No,Yes,No Response,1,1,Branch,Cashback,No
+BW0145,39.0,High,19.2,7737.08,34,Low,Fair,Yes,No,Clicked,1,4,Email,Travel Rewards,No
+BW0146,46.0,Medium,2.4,480.07,20,Low,Poor,No,No,No Response,0,4,Email,Low Interest,No
+BW0147,29.0,,1.0,8107.19,29,Medium,Excellent,No,No,No Response,0,0,Email,Cashback,No
+BW0148,52.0,Medium,0.9,2851.91,37,Medium,Fair,No,Yes,No Response,1,0,Mobile App,Low Interest,No
+BW0149,42.0,Medium,11.4,7589.09,21,High,Poor,No,No,No Response,0,4,Phone,Travel Rewards,No
+BW0150,47.0,High,2.3,3195.63,19,High,Poor,No,Yes,No Response,0,0,Mobile App,Low Interest,No
+BW0151,52.0,Medium,7.1,1227.65,20,High,Good,No,Yes,Clicked,0,4,Mobile App,Balance Transfer,No
+BW0152,40.0,Medium,11.1,10477.5,18,Medium,Excellent,No,Yes,No Response,0,4,Branch,Low Interest,Yes
+BW0153,35.0,Medium,4.7,4816.91,38,Medium,Excellent,No,Yes,No Response,0,0,Mobile App,Travel Rewards,Yes
+BW0154,53.0,High,3.1,2497.22,27,Medium,Excellent,No,Yes,No Response,1,0,Phone,Balance Transfer,No
+BW0155,41.0,High,4.7,4945.82,32,Medium,Good,No,Yes,Applied,0,1,Phone,Cashback,Yes
+BW0156,29.0,High,3.8,2365.87,30,Low,Excellent,No,Yes,Clicked,0,8,Email,Low Interest,Yes
+BW0157,22.0,Very High,1.5,20868.99,12,Low,Good,Yes,No,Clicked,1,3,Phone,Balance Transfer,No
+BW0158,44.0,Medium,2.9,8224.38,11,Medium,Fair,No,No,No Response,0,7,Phone,Travel Rewards,No
+BW0159,39.0,Medium,2.6,5457.36,36,Low,Good,No,No,Clicked,0,0,Email,Cashback,No
+BW0160,52.0,Medium,3.3,1475.64,45,High,Good,No,Yes,Applied,0,5,Email,Balance Transfer,No
+BW0161,51.0,Low,14.8,3847.71,32,High,Fair,No,No,Clicked,0,7,Mobile App,Low Interest,No
+BW0162,39.0,Low,20.0,673.67,37,Low,Poor,No,No,No Response,1,2,Mobile App,Travel Rewards,No
+BW0163,45.0,Low,8.2,1122.47,26,Low,Excellent,No,Yes,No Response,0,10,SMS,Low Interest,No
+BW0164,40.0,Medium,1.0,998.12,21,High,Fair,No,Yes,No Response,0,0,Mobile App,Balance Transfer,No
+BW0165,39.0,Medium,6.7,2136.17,29,High,Poor,No,No,Clicked,0,1,Branch,Balance Transfer,No
+BW0166,49.0,Medium,12.9,1942.2,30,Medium,Good,No,Yes,No Response,0,5,Email,Travel Rewards,No
+BW0167,54.0,Low,4.9,4346.14,30,Medium,Fair,No,Yes,No Response,0,3,SMS,Low Interest,No
+BW0168,35.0,High,1.3,7551.1,16,Medium,Good,Yes,Yes,No Response,0,1,Email,Low Interest,Yes
+BW0169,60.0,High,9.5,2105.47,36,Medium,Excellent,Yes,Yes,Applied,1,5,SMS,Travel Rewards,No
+BW0170,43.0,Low,0.6,3733.15,32,High,Fair,Yes,Yes,No Response,0,6,Mobile App,Travel Rewards,No
+BW0171,45.0,Medium,4.0,5328.68,39,Low,Good,Yes,No,No Response,0,2,Email,Low Interest,No
+BW0172,29.0,Low,1.3,2600.98,39,High,Good,Yes,Yes,No Response,1,5,Email,Cashback,No
+BW0173,32.0,High,3.8,1602.89,37,High,Fair,Yes,No,Clicked,1,4,Email,Cashback,No
+BW0174,38.0,Medium,10.3,1795.52,32,Low,Fair,No,Yes,No Response,2,5,Mobile App,Low Interest,No
+BW0175,40.0,Low,13.9,2996.83,40,Medium,Good,Yes,No,Clicked,3,0,SMS,Travel Rewards,No
+BW0176,47.0,Medium,9.3,9071.61,23,Low,Good,No,Yes,Applied,0,4,Email,Cashback,No
+BW0177,67.0,Medium,6.8,2857.94,38,Medium,Excellent,No,Yes,Clicked,0,3,Phone,Low Interest,Yes
+BW0178,24.0,Very High,0.6,10310.0,14,Medium,Fair,No,Yes,Clicked,1,4,Email,Low Interest,No
+BW0179,56.0,High,10.4,3499.34,27,Medium,Fair,Yes,Yes,No Response,0,2,Email,Low Interest,Yes
+BW0180,31.0,Medium,5.5,3017.74,9,High,Good,No,No,Clicked,0,2,Mobile App,Balance Transfer,Yes
+BW0181,48.0,Very High,7.4,3878.8,31,Medium,Fair,Yes,No,No Response,0,2,Email,Balance Transfer,No
+BW0182,40.0,High,5.0,2077.41,24,High,Excellent,No,No,Applied,0,5,Phone,Balance Transfer,Yes
+BW0183,35.0,High,5.8,4394.77,20,Medium,Good,No,No,Clicked,0,4,SMS,Balance Transfer,No
+BW0184,38.0,Medium,2.1,2158.64,29,Medium,Fair,No,Yes,Clicked,1,0,Phone,Cashback,No
+BW0185,23.0,Medium,3.4,5274.35,36,High,Good,No,No,No Response,0,6,Email,Balance Transfer,Yes
+BW0186,26.0,High,3.2,3151.91,30,High,Excellent,Yes,Yes,No Response,2,2,SMS,Low Interest,No
+BW0187,47.0,Medium,4.7,3612.88,21,Medium,Good,Yes,Yes,Applied,0,6,Branch,Balance Transfer,Yes
+BW0188,32.0,Medium,4.8,1421.1,40,High,Excellent,Yes,Yes,Clicked,0,4,SMS,Balance Transfer,Yes
+BW0189,50.0,High,3.5,4324.65,33,High,Fair,No,No,No Response,2,3,Mobile App,Travel Rewards,Yes
+BW0190,49.0,Very High,0.9,6075.86,16,Low,Good,No,Yes,Clicked,1,0,Email,Balance Transfer,Yes
+BW0191,39.0,High,3.2,5137.96,29,Low,Excellent,No,Yes,No Response,1,2,SMS,Travel Rewards,No
+BW0192,51.0,High,1.9,7933.62,21,Medium,Good,No,Yes,Clicked,0,2,Email,Travel Rewards,Yes
+BW0193,35.0,Low,1.7,3041.56,11,High,Excellent,No,Yes,Clicked,2,5,Email,Cashback,No
+BW0194,38.0,High,4.7,3023.44,22,Medium,Good,No,No,Applied,0,3,Email,Cashback,Yes
+BW0195,47.0,Medium,1.6,9900.54,41,High,Excellent,No,Yes,Clicked,0,5,Mobile App,Low Interest,Yes
+BW0196,48.0,Medium,3.4,2022.9,20,Low,Excellent,No,Yes,No Response,0,2,Branch,Cashback,No
+BW0197,31.0,Medium,11.9,6299.85,36,Low,Poor,No,No,No Response,0,5,Phone,Cashback,No
+BW0198,59.0,Low,7.8,841.28,26,High,Good,No,Yes,No Response,0,3,Email,Balance Transfer,No
+BW0199,42.0,Medium,0.6,7930.75,28,Medium,Good,No,No,Clicked,0,3,Branch,Low Interest,Yes
+BW0200,68.0,Very High,1.5,3767.65,29,Low,Fair,Yes,No,No Response,1,4,Branch,Balance Transfer,No
+BW0201,46.0,Medium,6.4,1947.78,34,Low,Excellent,No,Yes,No Response,0,4,Mobile App,Balance Transfer,No
+BW0202,36.0,Medium,3.0,3481.38,23,High,Excellent,No,Yes,No Response,1,10,Mobile App,Cashback,No
+BW0203,52.0,Medium,13.7,1995.97,44,Low,Good,No,Yes,Clicked,0,2,Email,Travel Rewards,Yes
+BW0204,44.0,High,19.8,62906.06,42,Medium,Fair,No,Yes,No Response,3,7,Phone,Low Interest,No
+BW0205,27.0,High,10.6,16588.45,36,Low,Fair,Yes,Yes,Applied,4,0,Mobile App,Travel Rewards,No
+BW0206,22.0,Medium,15.0,5296.92,46,Medium,Good,Yes,No,No Response,0,2,Phone,Low Interest,No
+BW0207,38.0,Very High,1.4,8617.9,25,Medium,Poor,No,Yes,Applied,0,5,Phone,Cashback,No
+BW0208,46.0,Low,6.6,1606.01,23,Low,Fair,Yes,Yes,No Response,0,5,Email,Low Interest,No
+BW0209,31.0,Medium,17.0,3716.96,59,High,Poor,Yes,No,No Response,0,2,SMS,Low Interest,Yes
+BW0210,56.0,Very High,8.2,7738.54,36,Low,Poor,No,No,Clicked,0,2,Email,Travel Rewards,No
+BW0211,60.0,High,0.5,4061.91,14,Medium,Poor,No,Yes,No Response,1,0,Email,Cashback,No
+BW0212,37.0,High,5.4,9932.53,24,Low,Good,Yes,Yes,No Response,0,2,Mobile App,Cashback,Yes
+BW0213,50.0,Medium,5.1,1387.93,26,High,Good,No,No,Applied,3,8,Mobile App,Travel Rewards,Yes
+BW0214,18.0,Medium,1.5,5212.83,41,High,Excellent,No,No,,0,3,SMS,Low Interest,No
+BW0215,42.0,High,4.0,14874.88,19,Low,Good,Yes,Yes,No Response,0,2,Phone,Travel Rewards,No
+BW0216,44.0,Very High,6.9,8359.44,32,Medium,Good,Yes,No,No Response,0,2,Mobile App,Balance Transfer,Yes
+BW0217,45.0,Low,13.1,1570.07,18,Low,Good,No,No,No Response,0,4,Phone,Travel Rewards,No
+BW0218,61.0,Low,4.4,4636.93,35,Medium,Good,No,Yes,No Response,0,2,Email,Balance Transfer,No
+BW0219,53.0,Very High,0.1,23818.29,19,High,Poor,Yes,No,Clicked,3,0,Mobile App,Travel Rewards,No
+BW0220,43.0,Low,2.4,4329.08,8,Medium,Good,Yes,No,No Response,2,2,SMS,Cashback,No
+BW0221,38.0,Medium,8.2,7397.97,28,High,Good,No,No,No Response,0,5,Phone,Low Interest,No
+BW0222,47.0,Medium,0.1,25375.19,29,Medium,Excellent,No,No,Applied,0,1,Mobile App,Cashback,Yes
+BW0223,18.0,Low,1.6,1714.29,28,High,Good,No,Yes,No Response,0,0,Mobile App,Travel Rewards,Yes
+BW0224,18.0,High,17.6,2963.06,30,High,Fair,No,No,Applied,0,0,Branch,Cashback,No
+BW0225,42.0,Low,0.4,2633.28,20,Medium,Excellent,Yes,Yes,No Response,1,4,SMS,Travel Rewards,No
+BW0226,50.0,Low,3.7,3952.9,36,Medium,Excellent,Yes,Yes,Applied,3,3,SMS,Low Interest,No
+BW0227,41.0,Medium,0.4,3305.32,8,Low,Good,Yes,Yes,Applied,0,5,Email,Cashback,No
+BW0228,52.0,Low,2.0,1670.94,12,High,Good,No,No,No Response,2,1,Email,Cashback,No
+BW0229,46.0,High,0.1,4035.83,32,Low,Fair,No,Yes,No Response,0,4,Mobile App,Travel Rewards,No
+BW0230,30.0,Medium,2.4,1642.35,9,Medium,Good,No,Yes,Applied,0,3,Phone,Low Interest,Yes
+BW0231,42.0,Low,7.1,4304.07,40,Low,Excellent,No,No,No Response,1,2,Email,Low Interest,No
+BW0232,35.0,High,13.8,3290.81,46,Medium,Good,No,Yes,Clicked,3,7,SMS,Cashback,No
+BW0233,43.0,Very High,0.9,3012.39,16,Low,Good,Yes,Yes,No Response,0,0,SMS,Balance Transfer,No
+BW0234,26.0,Low,0.6,5124.81,8,High,Fair,No,No,No Response,3,6,Mobile App,Travel Rewards,No
+BW0235,46.0,Very High,3.0,8187.69,45,High,Fair,Yes,Yes,Clicked,0,5,Mobile App,Low Interest,Yes
+BW0236,53.0,High,1.3,2145.27,38,High,Good,No,Yes,Clicked,0,1,SMS,Travel Rewards,Yes
+BW0237,49.0,High,3.7,8749.86,34,High,Good,No,Yes,No Response,0,7,Email,Low Interest,No
+BW0238,46.0,Medium,20.0,743.11,47,Low,Poor,No,No,No Response,0,1,Mobile App,Cashback,No
+BW0239,31.0,Medium,8.1,2249.4,34,High,Good,Yes,Yes,No Response,0,5,Email,Low Interest,No
+BW0240,24.0,Very High,5.3,,37,Low,Excellent,No,Yes,No Response,0,3,Mobile App,Low Interest,No
+BW0241,37.0,Very High,0.1,5542.84,27,Medium,Poor,No,No,No Response,1,0,Mobile App,Balance Transfer,No
+BW0242,50.0,Medium,9.8,4296.09,44,Medium,Fair,No,No,Clicked,1,5,SMS,Balance Transfer,Yes
+BW0243,36.0,Medium,2.4,3275.57,27,Low,Good,No,Yes,Applied,3,6,Branch,Cashback,No
+BW0244,50.0,Very High,3.1,6823.68,27,High,Good,No,Yes,Applied,0,2,SMS,Low Interest,Yes
+BW0245,54.0,Medium,8.8,1641.08,35,Medium,Fair,No,No,Clicked,0,4,Mobile App,Cashback,Yes
+BW0246,43.0,High,2.5,20694.17,23,Medium,Good,No,No,Applied,1,3,SMS,Cashback,Yes
+BW0247,61.0,Medium,4.4,2864.73,32,High,Good,No,Yes,No Response,0,0,Phone,Travel Rewards,No
+BW0248,27.0,Medium,10.6,5757.37,30,High,Good,No,No,No Response,2,6,Phone,Low Interest,No
+BW0249,45.0,Very High,10.2,3002.4,11,Medium,Good,Yes,Yes,No Response,3,0,Branch,Cashback,No
+BW0250,22.0,Low,3.2,879.97,26,Low,Good,No,Yes,No Response,1,4,Mobile App,Low Interest,No
+BW0251,51.0,Medium,7.1,2677.63,45,Medium,Excellent,Yes,No,No Response,0,4,Mobile App,Cashback,No
+BW0252,59.0,Medium,6.1,1762.94,33,Low,Poor,No,No,Clicked,1,1,Mobile App,Travel Rewards,No
+BW0253,38.0,Medium,3.0,28835.08,27,Medium,Fair,Yes,No,No Response,1,0,SMS,Cashback,No
+BW0254,32.0,Medium,6.8,4791.65,18,Medium,Good,Yes,Yes,No Response,0,8,SMS,Travel Rewards,No
+BW0255,44.0,Low,0.5,8312.92,32,High,Good,Yes,Yes,No Response,0,1,Email,Balance Transfer,No
+BW0256,41.0,Low,4.8,567.76,17,Medium,Fair,Yes,No,Applied,0,4,SMS,Low Interest,No
+BW0257,45.0,Low,15.2,1437.93,44,Medium,Fair,Yes,Yes,No Response,3,1,SMS,Cashback,No
+BW0258,45.0,Very High,1.4,26384.15,24,Medium,Good,Yes,Yes,Clicked,0,3,Mobile App,Low Interest,Yes
+BW0259,51.0,High,2.2,11054.71,1,Medium,Excellent,Yes,Yes,No Response,0,6,Email,Cashback,Yes
+BW0260,39.0,High,5.8,2704.79,48,High,Fair,No,Yes,Clicked,0,0,Email,Cashback,No
+BW0261,25.0,Medium,3.6,1891.47,12,Medium,Poor,Yes,No,No Response,0,6,Email,Cashback,No
+BW0262,37.0,Low,14.8,1200.68,25,Medium,Excellent,Yes,Yes,Clicked,1,4,Email,Balance Transfer,No
+BW0263,36.0,Medium,20.0,2084.39,36,Low,Poor,No,No,No Response,0,3,SMS,Cashback,No
+BW0264,42.0,Medium,0.5,11025.93,21,High,Fair,No,No,No Response,0,1,Phone,Cashback,No
+BW0265,35.0,Low,13.0,3479.43,34,High,Poor,No,Yes,No Response,1,3,Phone,Low Interest,No
+BW0266,39.0,Very High,3.3,1530.47,28,Low,Excellent,Yes,No,Clicked,1,0,Mobile App,Cashback,No
+BW0267,51.0,Low,4.9,1463.92,35,Low,Good,No,Yes,No Response,0,6,Email,Travel Rewards,No
+BW0268,28.0,Medium,4.4,1934.96,22,Low,Good,No,No,Clicked,1,1,Mobile App,Low Interest,No
+BW0269,54.0,High,2.3,6419.36,10,Medium,Good,No,No,No Response,0,4,Branch,Low Interest,No
+BW0270,44.0,Medium,3.8,3657.54,33,Low,Poor,No,No,No Response,3,0,Email,Low Interest,No
+BW0271,46.0,Medium,0.1,1832.22,15,Medium,Fair,No,Yes,No Response,1,5,SMS,Low Interest,No
+BW0272,38.0,Low,0.1,7642.3,39,,Excellent,Yes,Yes,No Response,0,5,Mobile App,Low Interest,Yes
+BW0273,32.0,Low,8.2,2804.26,30,Medium,Good,No,Yes,Clicked,0,6,Mobile App,Low Interest,Yes
+BW0274,39.0,Medium,13.0,1037.69,40,Medium,Fair,No,Yes,No Response,0,4,Email,Low Interest,No
+BW0275,32.0,Medium,6.8,11184.35,35,Medium,Fair,Yes,Yes,No Response,0,4,Email,Travel Rewards,Yes
+BW0276,33.0,Medium,20.0,3214.49,34,High,Good,No,Yes,No Response,0,6,SMS,Cashback,No
+BW0277,18.0,Medium,5.9,2609.44,30,High,Excellent,No,Yes,Clicked,4,4,Mobile App,Balance Transfer,Yes
+BW0278,37.0,Medium,20.0,23334.02,18,Low,Good,Yes,No,No Response,0,1,Mobile App,Low Interest,No
+BW0279,58.0,High,4.2,878.26,18,High,Fair,No,Yes,No Response,2,6,Mobile App,Travel Rewards,No
+BW0280,42.0,Medium,2.7,3592.52,43,High,Good,No,Yes,No Response,1,5,Email,Balance Transfer,No
+BW0281,51.0,Medium,1.7,1172.25,44,Low,Poor,Yes,No,No Response,0,2,Mobile App,Travel Rewards,No
+BW0282,27.0,High,11.1,14429.89,34,Medium,Excellent,No,No,No Response,1,2,SMS,Balance Transfer,No
+BW0283,35.0,Low,2.8,721.19,10,High,Fair,No,Yes,Clicked,2,1,Phone,Cashback,Yes
+BW0284,44.0,Medium,4.1,2817.36,25,High,Fair,No,Yes,No Response,0,1,Phone,Travel Rewards,No
+BW0285,36.0,Medium,2.8,3289.64,26,Low,Fair,No,Yes,Applied,0,0,Email,Balance Transfer,No
+BW0286,21.0,High,3.0,5998.79,17,Medium,Good,No,Yes,No Response,0,0,SMS,Low Interest,No
+BW0287,34.0,Very High,10.3,10298.13,20,High,Fair,Yes,Yes,Clicked,0,4,Branch,Balance Transfer,No
+BW0288,53.0,High,4.2,8149.13,26,High,Good,No,No,No Response,2,1,SMS,Cashback,No
+BW0289,49.0,Medium,0.6,2505.98,10,High,Good,Yes,Yes,Clicked,1,4,Phone,Cashback,No
+BW0290,33.0,Very High,0.1,11229.99,28,High,Fair,Yes,Yes,No Response,0,5,SMS,Cashback,No
+BW0291,51.0,High,0.1,5359.27,14,High,Fair,Yes,No,Applied,0,5,Mobile App,Travel Rewards,Yes
+BW0292,33.0,High,2.1,6430.02,23,Low,Good,No,Yes,Clicked,1,4,Mobile App,Balance Transfer,No
+BW0293,39.0,Low,3.2,1758.39,18,High,Fair,Yes,No,No Response,2,2,SMS,Cashback,No
+BW0294,18.0,Low,1.1,3787.74,20,Medium,Fair,Yes,Yes,No Response,0,0,Email,Travel Rewards,No
+BW0295,26.0,Medium,6.0,1589.72,11,High,Good,No,No,Clicked,0,0,SMS,Low Interest,No
+BW0296,68.0,Medium,14.8,4239.24,47,High,Excellent,No,Yes,No Response,1,0,Mobile App,Cashback,Yes
+BW0297,38.0,Medium,1.3,2056.31,39,Medium,Good,No,Yes,Clicked,1,0,Mobile App,Low Interest,Yes
+BW0298,42.0,High,8.3,2210.58,39,High,Excellent,No,Yes,Clicked,0,3,Branch,Cashback,No
+BW0299,41.0,Medium,0.2,2720.25,15,Low,Fair,No,Yes,No Response,0,8,Phone,Low Interest,No
+BW0300,46.0,Medium,7.0,6967.3,18,Low,Good,Yes,Yes,No Response,0,2,Email,Cashback,No
+BW0025,53.0,Medium,0.2,5561.17,18,High,Excellent,No,Yes,No Response,0,4,Phone,Balance Transfer,No
+BW0078,46.0,Low,10.3,2407.23,13,High,Good,No,No,No Response,0,2,SMS,Travel Rewards,No
