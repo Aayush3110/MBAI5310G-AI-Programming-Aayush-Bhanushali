@@ -2,7 +2,7 @@
 
 **Course:** MBAI 5310G: AI Programming - Ontario Tech University
 **Business:** AdVantage Growth Studio (marketing campaign analytics)
-**Dataset:** Marketing Campaign Decision Tree Dataset (`marketing_campaign_decision_tree_dataset.xlsx`)
+**Dataset:** Marketing Campaign Decision Tree Dataset (`marketing_campaign_decision_tree_dataset.csv`)
 **Model:** Decision Tree Classifier (scikit-learn)
 
 ## Business Problem
@@ -13,7 +13,7 @@ This project builds a Decision Tree classifier that predicts whether a customer 
 
 ## Dataset
 
-`marketing_campaign_decision_tree_dataset.xlsx` - 605 customer campaign records, 21 columns. Includes 5 intentional duplicate rows and small numbers of missing values across four columns (`Annual_Income`, `Customer_Segment`, `Average_Order_Value`, `Customer_Satisfaction`) for data-preparation practice.
+`marketing_campaign_decision_tree_dataset.csv` - 605 customer campaign records, 21 columns. Includes 5 intentional duplicate rows and small numbers of missing values across four columns (`Annual_Income`, `Customer_Segment`, `Average_Order_Value`, `Customer_Satisfaction`) for data-preparation practice.
 
 | Group | Columns |
 |---|---|
@@ -77,8 +77,8 @@ The dataset is **synthetic and modestly sized (≈600 rows)**, which limits how 
 ```
 Assignment4_Decision_Trees/Assignment4_Set1/
 ├── Assignment4_Aayush_B.ipynb
-├── marketing_campaign_decision_tree_dataset.xlsx
-├── business_plan_marketing_campaign_decision_tree.docx
+├── marketing_campaign_decision_tree_dataset.csv
+├── business_plan_marketing_campaign_decision_tree.pdf
 └── README.md
 ```
 
