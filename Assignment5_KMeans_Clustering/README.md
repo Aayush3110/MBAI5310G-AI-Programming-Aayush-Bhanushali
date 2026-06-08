@@ -1,6 +1,6 @@
 # Assignment 5 - K-means Clustering and Customer Segmentation
 
-**Course:** MBAI 5310G-001: AI Programming - Ontario Tech University
+**Course:** MBAI 5310G: AI Programming - Ontario Tech University
 **Business:** BankWise Retail Banking - Credit Card Offer Targeting
 **Dataset:** BankWise Credit Card Offer Acceptance Dataset (`bankwise_credit_card_offer_acceptance_dataset.csv`)
 **Model:** K-means Clustering (scikit-learn)
