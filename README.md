@@ -8,3 +8,4 @@ The repository will include Jupyter notebooks, code, outputs, README files, and 
 - [Assignment 3 - Classification Models and Evaluation](./Assignment3_Classification_Models)
 - [Assignment 4 - Decision Trees](./Assignment4_Decision_Trees)
 - [Assignment 5 - KMeans Clustering](./Assignment5_KMeans_Clustering)
+- [Assignment 6 - SHAP_LIME](./Assignment6_SHAP_LIME)
