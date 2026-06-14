@@ -60,7 +60,7 @@ Assignment2_ML_Pipeline/
 
 ```bash
 pip install pandas numpy scikit-learn matplotlib jupyter
-jupyter notebook Assignment2_Aayush_Bhanushali.ipynb
+jupyter notebook Assignment2_Aayush_B.ipynb
 ```
 
 Run all cells. The CSV must be in the same folder as the notebook.
