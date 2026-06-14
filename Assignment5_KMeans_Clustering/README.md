@@ -92,7 +92,7 @@ Assignment5_KMeans_Clustering/
 
 ```bash
 pip install pandas numpy scikit-learn matplotlib jupyter
-jupyter notebook Assignment5_BankWise_Aayush_Bhanushali.ipynb
+jupyter notebook Assignment5_Aayush_B.ipynb
 ```
 
 Run all cells. The dataset CSV must be in the same folder as the notebook.
