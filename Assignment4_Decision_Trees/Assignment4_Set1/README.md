@@ -86,7 +86,7 @@ Assignment4_Decision_Trees/Assignment4_Set1/
 
 ```bash
 pip install pandas numpy scikit-learn matplotlib openpyxl jupyter
-jupyter notebook Assignment4_Aayush_Bhanushali.ipynb
+jupyter notebook Assignment4_Aayush_B.ipynb
 ```
 
 Run all cells. The dataset XLSX must be in the same folder as the notebook.
