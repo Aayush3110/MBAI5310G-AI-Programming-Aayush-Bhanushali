@@ -59,7 +59,7 @@ Assignment3_Classification_Models/
 
 ```bash
 pip install pandas numpy scikit-learn matplotlib jupyter
-jupyter notebook Assignment3_Aayush_Bhanushali.ipynb
+jupyter notebook Assignment3_Aayush_B.ipynb
 ```
 
 Run all cells. The notebook creates the `outputs/` folder automatically.
