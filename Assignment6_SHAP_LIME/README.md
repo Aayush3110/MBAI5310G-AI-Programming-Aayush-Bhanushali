@@ -64,7 +64,7 @@ The dataset is small and imbalanced (380 records after cleaning, with only about
 
 ```
 Assignment6_DigitalSubscription_Model_Evaluation/
-├── Assignment6_Aayush_Bhanushali.ipynb
+├── Assignment6_Aayush_B.ipynb
 ├── digital_subscription_retention_dataset.csv
 └── README.md
 ```
@@ -73,7 +73,7 @@ Assignment6_DigitalSubscription_Model_Evaluation/
 
 ```bash
 pip install pandas numpy scikit-learn matplotlib shap lime jupyter
-jupyter notebook Assignment6_Aayush_Bhanushali.ipynb
+jupyter notebook Assignment6_Aayush_B.ipynb
 ```
 
 Run all cells in order. The dataset CSV must be in the same folder as the notebook.
