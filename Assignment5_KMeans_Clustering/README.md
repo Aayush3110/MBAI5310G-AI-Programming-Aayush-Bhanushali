@@ -31,8 +31,6 @@ This project uses **unsupervised learning** to discover natural groups within th
 
 A **K-means Clustering** model with `n_clusters=3` is the main model. The number of clusters is chosen with the **Elbow Method** and confirmed with the **silhouette score**.
 
-> **Note on scope:** Week 5's lecture material also covers PCA (Principal Component Analysis). PCA is used here **only to visualise** the clusters in 2-D - it does not create the clusters. K-means creates the segments; PCA simply helps display them. Categorical fields and `Accepted_Offer` are intentionally excluded from clustering.
-
 Pipeline steps:
 1. Load, inspect, and clean the dataset (strip column names, drop duplicates, median-impute the numerical features)
 2. Select the six numerical features for clustering
