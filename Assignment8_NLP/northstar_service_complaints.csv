@@ -1,0 +1,121 @@
+TicketID,TicketDate,Source,City,PlanType,CustomerType,MessageText,IssueCategory,Priority
+TCK-001,2026-02-03,Email,Ottawa,Plus,Small Business,"The NorthStar mobile app crashes when I try to view my plan. I updated it today, but it still fails.",Mobile_App,Medium
+TCK-002,2026-02-05,Call Center,Brampton,Family,Student,"I asked to cancel last week, but I still received a renewal message. Ticket created by Alex at 9:30 AM.",Cancellation,Low
+TCK-003,2026-02-07,Mobile App,Toronto,Business,Remote Worker,My monthly price increased without clear notice. I need an explanation for the extra $18 fee.,Billing,Medium
+TCK-004,2026-02-09,Web Form,Ottawa,Student,Residential,"The NorthStar mobile app crashes when I try to view my plan. I updated it today, but it still fails.",Mobile_App,Medium
+TCK-005,2026-02-11,Chat,Kingston,Basic,Small Business,I need technical support because my business router shows a red light and cannot connect.,Technical_Support,High
+TCK-006,2026-02-13,Email,Ajax,Plus,Student,"The installation appointment on June 12 was completed, but the service still does not work.",Technical_Support,High
+TCK-007,2026-02-15,Call Center,Ajax,Family,Remote Worker,"The app logs me out every few minutes, and the verification code arrives late.",Mobile_App,Medium
+TCK-008,2026-02-17,Mobile App,Ajax,Business,Residential,"The verification code goes to my old phone number, so I cannot update my plan.",Account_Access,Medium
+TCK-009,2026-02-19,Web Form,Brampton,Student,Small Business,"The support agent reset my modem, but the phone line still has no signal.",Technical_Support,High
+TCK-010,2026-02-21,Chat,Ottawa,Basic,Student,I cannot log in to my NorthStar account because the password reset email never arrives.,Account_Access,Medium
+TCK-011,2026-02-23,Email,Pickering,Plus,Remote Worker,"My contract is ending, and I do not want automatic renewal for the Business plan.",Cancellation,Low
+TCK-012,2026-02-25,Call Center,Pickering,Family,Residential,"There was an outage near my office on June 8, and I could not upload customer files.",Internet_Service,High
+TCK-013,2026-02-27,Mobile App,Oshawa,Business,Small Business,"My Wi-Fi is very slow, especially during video calls. NorthStar speed test shows only 12 Mbps.",Internet_Service,High
+TCK-014,2026-03-01,Web Form,Toronto,Student,Student,"The verification code goes to my old phone number, so I cannot update my plan.",Account_Access,Medium
+TCK-015,2026-03-03,Chat,Ajax,Basic,Remote Worker,I want to cancel my NorthStar plan next month because I am moving from Ajax to Calgary.,Cancellation,Low
+TCK-016,2026-03-05,Email,Ajax,Plus,Residential,The internet connection in Ajax has been dropping every evening since Monday. I work from home and need stable service.,Internet_Service,High
+TCK-017,2026-03-07,Call Center,Ajax,Family,Small Business,"The installation appointment on June 12 was completed, but the service still does not work.",Technical_Support,High
+TCK-018,2026-03-09,Mobile App,Pickering,Business,Student,My account is locked after two attempts. Please help me regain access before Friday.,Account_Access,Medium
+TCK-019,2026-03-11,Web Form,Oshawa,Student,Remote Worker,"My Wi-Fi is very slow, especially during video calls. NorthStar speed test shows only 12 Mbps.",Internet_Service,High
+TCK-020,2026-03-13,Chat,Brampton,Basic,Residential,"The NORTHSTAR mobile app crashes when I try to view my plan. I updated it today, but it still fails. Ticket created by Alex at 9:30 AM.",Mobile_App,Medium
+TCK-021,2026-03-15,Email,Kingston,Plus,Small Business,"My contract is ending, and I do not want automatic renewal for the Business plan.",Cancellation,Low
+TCK-022,2026-03-17,Call Center,Oshawa,Family,Student,The discount promised by NorthStar on June 1 is missing from my bill.,Billing,Medium
+TCK-023,2026-03-19,Mobile App,Oshawa,Business,Remote Worker,"I changed my email address, but the portal still sends login messages to the old address.",Account_Access,Medium
+TCK-024,2026-03-21,Web Form,Kingston,Student,Residential,I cannot make a payment in the app. The blue checkout button does nothing after I tap it.,Mobile_App,Medium
+TCK-025,2026-03-23,Chat,Ottawa,Basic,Small Business,"I asked to cancel last week, but I still received a renewal message.",Cancellation,Low
+TCK-026,2026-03-25,Email,Ottawa,Plus,Student,"The modem keeps restarting, and the service is not reliable. Please check the network in Ottawa.",Internet_Service,High
+TCK-027,2026-03-27,Call Center,Ottawa,Family,Remote Worker,"I paid the invoice yesterday, but the website still says unpaid. This billing message is confusing. Ticket created by Alex at 9:30 AM.",Billing,Medium
+TCK-028,2026-03-29,Mobile App,Pickering,Business,Residential,I cannot make a payment in the app. The blue checkout button does nothing after I tap it.,Mobile_App,Medium
+TCK-029,2026-03-31,Web Form,Toronto,Student,Small Business,"The installation appointment on June 12 was completed, but the service still does not work.",Technical_Support,High
+TCK-030,2026-04-02,Chat,Kingston,Basic,Student,My account is locked after two attempts. Please help me regain access before Friday.,Account_Access,Medium
+TCK-031,2026-04-04,Email,Oshawa,Plus,Remote Worker,"A technician visited my home in Oshawa, but the router problem came back after one hour. Ticket created by Alex at 9:30 AM.",Technical_Support,High
+TCK-032,2026-04-06,Call Center,Toronto,Family,Residential,The internet connection in Toronto has been dropping every evening since Monday. I work from home and need stable service.,Internet_Service,High
+TCK-033,2026-04-08,Mobile App,Pickering,Business,Small Business,"There was an outage near my office on June 8, and I could not upload customer files.",Internet_Service,High
+TCK-034,2026-04-10,Web Form,Kingston,Student,Student,I need technical support because my business router shows a red light and cannot connect. Ticket created by Alex at 9:30 AM.,Technical_Support,High
+TCK-035,2026-04-12,Chat,Ajax,Basic,Remote Worker,I want to cancel my NORTHSTAR plan next month because I am moving from Ajax to Calgary. Ticket created by Alex at 9:30 AM.,Cancellation,Low
+TCK-036,2026-04-14,Email,Pickering,Plus,Residential,NorthStar Telecom charged me twice on my May invoice. Please correct the bill for my account in Pickering.,Billing,Medium
+TCK-037,2026-04-16,Call Center,Kingston,Family,Small Business,"My contract is ending, and I do not want automatic renewal for the Business plan.",Cancellation,Low
+TCK-038,2026-04-18,Mobile App,Brampton,Business,Student,"The support agent reset my modem, but the phone line still has no signal.",Technical_Support,High
+TCK-039,2026-04-20,Web Form,Kingston,Student,Remote Worker,"There was an outage near my office on June 8, and I could not upload customer files. Ticket created by Alex at 9:30 AM.",Internet_Service,High
+TCK-040,2026-04-22,Chat,Ajax,Basic,Residential,I want to cancel my NorthStar plan next month because I am moving from Ajax to Calgary.,Cancellation,Low
+TCK-041,2026-04-24,Email,Kingston,Plus,Small Business,My account is locked after two attempts. Please help me regain access before Friday.,Account_Access,Medium
+TCK-042,2026-04-26,Call Center,Kingston,Family,Student,NorthStar Telecom charged me twice on my May invoice. Please correct the bill for my account in Kingston.,Billing,Medium
+TCK-043,2026-04-28,Mobile App,Oshawa,Business,Remote Worker,The discount promised by NorthStar on June 1 is missing from my bill.,Billing,Medium
+TCK-044,2026-04-30,Web Form,Kingston,Student,Residential,"There was an outage near my office on June 8, and I could not upload customer files.",Internet_Service,High
+TCK-045,2026-05-02,Chat,Brampton,Basic,Small Business,"The modem keeps restarting, and the service is not reliable. Please check the network in Brampton.",Internet_Service,High
+TCK-046,2026-05-04,Email,Ajax,Plus,Student,"The app logs me out every few minutes, and the verification code arrives late.",Mobile_App,Medium
+TCK-047,2026-05-06,Call Center,Whitby,Family,Remote Worker,"A technician visited my home in Whitby, but the router problem came back after one hour.",Technical_Support,High
+TCK-048,2026-05-08,Mobile App,Toronto,Business,Residential,I want to cancel my NorthStar plan next month because I am moving from Toronto to Calgary.,Cancellation,Low
+TCK-049,2026-05-10,Web Form,Toronto,Student,Small Business,"The verification code goes to my old phone number, so I cannot update my plan.",Account_Access,Medium
+TCK-050,2026-05-12,Chat,Ottawa,Basic,Student,"I asked to cancel last week, but I still received a renewal message.",Cancellation,Low
+TCK-051,2026-05-14,Email,Pickering,Plus,Remote Worker,NorthStar Telecom charged me twice on my May invoice. Please correct the bill for my account in Pickering.,Billing,Medium
+TCK-052,2026-05-16,Call Center,Pickering,Family,Residential,"There was an outage near my office on June 8, and I could not upload customer files.",Internet_Service,High
+TCK-053,2026-05-18,Mobile App,Whitby,Business,Small Business,Please stop my service on July 1. I returned the modem to the store in Whitby.,Cancellation,Low
+TCK-054,2026-05-20,Web Form,Brampton,Student,Student,"I asked to cancel last week, but I still received a renewal message.",Cancellation,Low
+TCK-055,2026-05-22,Chat,Ajax,Basic,Remote Worker,My monthly price increased without clear notice. I need an explanation for the extra $18 fee.,Billing,Medium
+TCK-056,2026-05-24,Email,Toronto,Plus,Residential,The internet connection in Toronto has been dropping every evening since Monday. I work from home and need stable service.,Internet_Service,High
+TCK-057,2026-05-26,Call Center,Oshawa,Family,Small Business,"I changed my email address, but the portal still sends login messages to the old address.",Account_Access,Medium
+TCK-058,2026-05-28,Mobile App,Brampton,Business,Student,"I paid the invoice yesterday, but the website still says unpaid. This billing message is confusing.",Billing,Medium
+TCK-059,2026-05-30,Web Form,Ottawa,Student,Remote Worker,"I paid the invoice yesterday, but the website still says unpaid. This billing message is confusing.",Billing,Medium
+TCK-060,2026-02-01,Chat,Ottawa,Basic,Residential,"The support agent reset my modem, but the phone line still has no signal.",Technical_Support,High
+TCK-061,2026-02-03,Email,Whitby,Plus,Small Business,The usage chart in the app is blank for my Family plan in Whitby.,Mobile_App,Medium
+TCK-062,2026-02-05,Call Center,Kingston,Family,Student,I cannot make a payment in the app. The blue checkout button does nothing after I tap it.,Mobile_App,Medium
+TCK-063,2026-02-07,Mobile App,Brampton,Business,Remote Worker,"The NorthStar mobile app crashes when I try to view my plan. I updated it today, but it still fails.",Mobile_App,Medium
+TCK-064,2026-02-09,Web Form,Toronto,Student,Residential,"The app logs me out every few minutes, and the verification code arrives late.",Mobile_App,Medium
+TCK-065,2026-02-11,Chat,Ajax,Basic,Small Business,"The verification code goes to my old phone number, so I cannot update my plan. Ticket created by Alex at 9:30 AM.",Account_Access,Medium
+TCK-066,2026-02-13,Email,Oshawa,Plus,Student,The discount promised by NorthStar on June 1 is missing from my bill.,Billing,Medium
+TCK-067,2026-02-15,Call Center,Pickering,Family,Remote Worker,I need technical support because my business router shows a red light and cannot connect.,Technical_Support,High
+TCK-068,2026-02-17,Mobile App,Pickering,Business,Residential,I cannot make a payment in the app. The blue checkout button does nothing after I tap it.,Mobile_App,Medium
+TCK-069,2026-02-19,Web Form,Kingston,Student,Small Business,My account is locked after two attempts. Please help me regain access before Friday.,Account_Access,Medium
+TCK-070,2026-02-21,Chat,Oshawa,Basic,Student,"I changed my email address, but the portal still sends login messages to the old address.",Account_Access,Medium
+TCK-071,2026-02-23,Email,Brampton,Plus,Remote Worker,"The support agent reset my modem, but the phone line still has no signal.",Technical_Support,High
+TCK-072,2026-02-25,Call Center,Brampton,Family,Residential,I cannot log in to my NorthStar account because the password reset email never arrives.,Account_Access,Medium
+TCK-073,2026-02-27,Mobile App,Oshawa,Business,Small Business,The usage chart in the app is blank for my Family plan in Oshawa. Ticket created by Alex at 9:30 AM.,Mobile_App,Medium
+TCK-074,2026-03-01,Web Form,Kingston,Student,Student,"My contract is ending, and I do not want automatic renewal for the Business plan.",Cancellation,Low
+TCK-075,2026-03-03,Chat,Whitby,Basic,Remote Worker,"My Wi-Fi is very slow, especially during video calls. NorthStar speed test shows only 12 Mbps.",Internet_Service,High
+TCK-076,2026-03-05,Email,Pickering,Plus,Residential,I need technical support because my business router shows a red light and cannot connect.,Technical_Support,High
+TCK-077,2026-03-07,Call Center,Brampton,Family,Small Business,"The modem keeps restarting, and the service is not reliable. Please check the network in Brampton.",Internet_Service,High
+TCK-078,2026-03-09,Mobile App,Ajax,Business,Student,My monthly price increased without clear notice. I need an explanation for the extra $18 fee.,Billing,Medium
+TCK-079,2026-03-11,Web Form,Oshawa,Student,Remote Worker,Please stop my service on July 1. I returned the modem to the store in Oshawa.,Cancellation,Low
+TCK-080,2026-03-13,Chat,Brampton,Basic,Residential,"The modem keeps restarting, and the service is not reliable. Please check the network in Brampton.",Internet_Service,High
+TCK-081,2026-03-15,Email,Whitby,Plus,Small Business,"A technician visited my home in Whitby, but the router problem came back after one hour.",Technical_Support,High
+TCK-082,2026-03-17,Call Center,Whitby,Family,Student,"My Wi-Fi is very slow, especially during video calls. NorthStar speed test shows only 12 Mbps.",Internet_Service,High
+TCK-083,2026-03-19,Mobile App,Kingston,Business,Remote Worker,NORTHSTAR Telecom charged me twice on my May invoice. Please correct the bill for my account in Kingston. Ticket created by Alex at 9:30 AM.,Billing,Medium
+TCK-084,2026-03-21,Web Form,Ajax,Student,Residential,"The app logs me out every few minutes, and the verification code arrives late.",Mobile_App,Medium
+TCK-085,2026-03-23,Chat,Whitby,Basic,Small Business,Please stop my service on July 1. I returned the modem to the store in Whitby.,Cancellation,Low
+TCK-086,2026-03-25,Email,Oshawa,Plus,Student,The usage chart in the app is blank for my Family plan in Oshawa.,Mobile_App,Medium
+TCK-087,2026-03-27,Call Center,Oshawa,Family,Remote Worker,"My Wi-Fi is very slow, especially during video calls. NorthStar speed test shows only 12 Mbps.",Internet_Service,High
+TCK-088,2026-03-29,Mobile App,Pickering,Business,Residential,My account is locked after two attempts. Please help me regain access before Friday.,Account_Access,Medium
+TCK-089,2026-03-31,Web Form,Whitby,Student,Small Business,The usage chart in the app is blank for my Family plan in Whitby.,Mobile_App,Medium
+TCK-090,2026-04-02,Chat,Toronto,Basic,Student,"The verification code goes to my old phone number, so I cannot update my plan.",Account_Access,Medium
+TCK-091,2026-04-04,Email,Ottawa,Plus,Remote Worker,"The modem keeps restarting, and the service is not reliable. Please check the network in Ottawa. Ticket created by Alex at 9:30 AM.",Internet_Service,High
+TCK-092,2026-04-06,Call Center,Oshawa,Family,Residential,"A technician visited my home in Oshawa, but the router problem came back after one hour.",Technical_Support,High
+TCK-093,2026-04-08,Mobile App,Whitby,Business,Small Business,"I changed my email address, but the portal still sends login messages to the old address.",Account_Access,Medium
+TCK-094,2026-04-10,Web Form,Toronto,Student,Student,I want to cancel my NorthStar plan next month because I am moving from Toronto to Calgary.,Cancellation,Low
+TCK-095,2026-04-12,Chat,Brampton,Basic,Remote Worker,I cannot log in to my NorthStar account because the password reset email never arrives.,Account_Access,Medium
+TCK-096,2026-04-14,Email,Pickering,Plus,Residential,"My contract is ending, and I do not want automatic renewal for the Business plan. Ticket created by Alex at 9:30 AM.",Cancellation,Low
+TCK-097,2026-04-16,Call Center,Toronto,Family,Small Business,My monthly price increased without clear notice. I need an explanation for the extra $18 fee.,Billing,Medium
+TCK-098,2026-04-18,Mobile App,Pickering,Business,Student,I need technical support because my business router shows a red light and cannot connect.,Technical_Support,High
+TCK-099,2026-04-20,Web Form,Ajax,Student,Remote Worker,The internet connection in Ajax has been dropping every evening since Monday. I work from home and need stable service.,Internet_Service,High
+TCK-100,2026-04-22,Chat,Toronto,Basic,Residential,"The installation appointment on June 12 was completed, but the service still does not work. Ticket created by Alex at 9:30 AM.",Technical_Support,High
+TCK-101,2026-04-24,Email,Whitby,Plus,Small Business,The usage chart in the app is blank for my Family plan in Whitby.,Mobile_App,Medium
+TCK-102,2026-04-26,Call Center,Oshawa,Family,Student,Please stop my service on July 1. I returned the modem to the store in Oshawa.,Cancellation,Low
+TCK-103,2026-04-28,Mobile App,Brampton,Business,Remote Worker,"The NorthStar mobile app crashes when I try to view my plan. I updated it today, but it still fails.",Mobile_App,Medium
+TCK-104,2026-04-30,Web Form,Pickering,Student,Residential,I cannot make a payment in the app. The blue checkout button does nothing after I tap it.,Mobile_App,Medium
+TCK-105,2026-05-02,Chat,Kingston,Basic,Small Business,NorthStar Telecom charged me twice on my May invoice. Please correct the bill for my account in Kingston.,Billing,Medium
+TCK-106,2026-05-04,Email,Oshawa,Plus,Student,"A technician visited my home in Oshawa, but the router problem came back after one hour.",Technical_Support,High
+TCK-107,2026-05-06,Call Center,Toronto,Family,Remote Worker,"The app logs me out every few minutes, and the verification code arrives late. Ticket created by Alex at 9:30 AM.",Mobile_App,Medium
+TCK-108,2026-05-08,Mobile App,Whitby,Business,Residential,"I changed my email address, but the portal still sends login messages to the old address. Ticket created by Alex at 9:30 AM.",Account_Access,Medium
+TCK-109,2026-05-10,Web Form,Whitby,Student,Small Business,Please stop my service on July 1. I returned the modem to the store in Whitby.,Cancellation,Low
+TCK-110,2026-05-12,Chat,Toronto,Basic,Student,The internet connection in Toronto has been dropping every evening since Monday. I work from home and need stable service. Ticket created by Alex at 9:30 AM.,Internet_Service,High
+TCK-111,2026-05-14,Email,Ottawa,Plus,Remote Worker,I cannot log in to my NORTHSTAR account because the password reset email never arrives. Ticket created by Alex at 9:30 AM.,Account_Access,Medium
+TCK-112,2026-05-16,Call Center,Brampton,Family,Residential,"I paid the invoice yesterday, but the website still says unpaid. This billing message is confusing.",Billing,Medium
+TCK-113,2026-05-18,Mobile App,Whitby,Business,Small Business,The discount promised by NorthStar on June 1 is missing from my bill. Ticket created by Alex at 9:30 AM.,Billing,Medium
+TCK-114,2026-05-20,Web Form,Ottawa,Student,Student,"I asked to cancel last week, but I still received a renewal message.",Cancellation,Low
+TCK-115,2026-05-22,Chat,Whitby,Basic,Remote Worker,The discount promised by NorthStar on June 1 is missing from my bill.,Billing,Medium
+TCK-116,2026-05-24,Email,Ottawa,Plus,Residential,I cannot log in to my NorthStar account because the password reset email never arrives.,Account_Access,Medium
+TCK-117,2026-05-26,Call Center,Brampton,Family,Small Business,"I paid the invoice yesterday, but the website still says unpaid. This billing message is confusing.",Billing,Medium
+TCK-118,2026-05-28,Mobile App,Ajax,Business,Student,"The installation appointment on June 12 was completed, but the service still does not work.",Technical_Support,High
+TCK-119,2026-05-30,Web Form,Ottawa,Student,Remote Worker,"The support agent reset my modem, but the phone line still has no signal.",Technical_Support,High
+TCK-120,2026-02-01,Chat,Toronto,Basic,Residential,My monthly price increased without clear notice. I need an explanation for the extra $18 fee.,Billing,Medium
