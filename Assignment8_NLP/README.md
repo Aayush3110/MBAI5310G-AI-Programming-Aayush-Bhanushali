@@ -66,9 +66,9 @@ The dataset is small and heavily templated (120 tickets from 49 unique templates
 
 ```
 Assignment8_NLP/
-├── Assignment8_Aayush_B.ipynb   # Main notebook (Tasks 1-8)
-├── northstar_service_complaints.csv                # Dataset (converted from .xlsx)
-└── README.md                                       # This file
+├── Assignment8_Aayush_B.ipynb   
+├── northstar_service_complaints.csv                
+└── README.md                                       
 ```
 
 ## How to Run
